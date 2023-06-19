@@ -1,0 +1,1305 @@
+﻿Call Id,Agent,Date,Time,Topic,Answered,Resolved,Speed of answer(seconds),Duration(seconds),Satisfaction rating,,,,,
+ID0001,Diane,03/01/2023,09:00:00,Contract related,Y,Y,109,00:02:23,3,3673,avg speed of answer,67.93383743,call duration is seconds,143
+ID0002,Becky,03/01/2023,09:15:00,Technical Support,Y,N,70,00:04:02,3,,avg call duration,182.7208944,,242
+ID0003,Stewart,03/01/2023,09:25:00,Contract related,Y,Y,10,00:02:11,3,,,,,131
+ID0004,Greg,03/01/2023,09:36:00,Contract related,Y,Y,53,00:00:37,2,,,,,37
+ID0005,Becky,03/01/2023,10:26:00,Payment related,Y,Y,95,00:01:00,3,,,,,60
+ID0006,Stewart,03/01/2023,10:56:00,Technical Support,N,N,,,,,,,,
+ID0007,Diane,03/01/2023,10:48:00,Payment related,Y,Y,24,00:03:40,2,,,,,220
+ID0008,Diane,03/01/2023,10:05:00,Payment related,Y,Y,22,00:00:38,4,,,,,38
+ID0009,Greg,03/01/2023,10:37:00,Admin Support,Y,Y,15,00:06:38,4,,,,,398
+ID0010,Jim,03/01/2023,10:34:00,Streaming,Y,Y,78,00:01:04,3,,,,,64
+ID0011,Joe,03/01/2023,10:38:00,Payment related,N,N,,,,,,,,
+ID0012,Greg,03/01/2023,10:49:00,Payment related,Y,Y,50,00:00:32,4,,,,,32
+ID0013,Joe,03/01/2023,11:28:00,Payment related,Y,Y,84,00:03:34,3,,,,,214
+ID0014,Martha,03/01/2023,12:48:00,Contract related,Y,Y,89,00:05:44,3,,,,,344
+ID0015,Becky,03/01/2023,13:48:00,Admin Support,Y,Y,48,00:03:47,4,,,,,227
+ID0016,Becky,03/01/2023,13:39:00,Admin Support,Y,Y,63,00:05:26,2,,,,,326
+ID0017,Greg,03/01/2023,16:46:00,Technical Support,Y,Y,45,00:05:32,5,,,,,332
+ID0018,Becky,03/01/2023,16:37:00,Admin Support,N,N,,,,,,,,
+ID0019,Jim,03/01/2023,16:25:00,Streaming,N,N,,,,,,,,
+ID0020,Jim,03/01/2023,14:38:00,Contract related,Y,Y,101,00:02:27,3,,,,,147
+ID0021,Jim,03/01/2023,14:39:00,Technical Support,Y,Y,74,00:05:22,5,,,,,322
+ID0022,Dan,03/01/2023,17:00:00,Admin Support,Y,Y,89,00:05:50,5,,,,,350
+ID0023,Martha,03/01/2023,17:25:00,Technical Support,N,N,,,,,,,,
+ID0024,Joe,03/01/2023,11:04:00,Technical Support,Y,Y,68,00:05:25,2,,,,,325
+ID0025,Diane,03/01/2023,11:08:00,Streaming,Y,Y,97,00:04:09,3,,,,,249
+ID0026,Dan,03/02/2023,09:30:00,Payment related,N,N,,,,,,,,
+ID0027,Joe,03/02/2023,09:40:00,Streaming,Y,Y,39,00:04:00,3,,,,,240
+ID0028,Martha,03/02/2023,09:50:00,Contract related,Y,Y,51,00:02:34,4,,,,,154
+ID0029,Joe,03/02/2023,10:00:00,Technical Support,Y,Y,106,00:02:09,4,,,,,129
+ID0030,Stewart,03/02/2023,10:10:00,Streaming,Y,Y,107,00:05:55,3,,,,,355
+ID0031,Joe,03/02/2023,10:20:00,Admin Support,Y,Y,22,00:05:08,3,,,,,308
+ID0032,Joe,03/02/2023,10:30:00,Streaming,Y,Y,122,00:02:08,4,,,,,128
+ID0033,Diane,03/02/2023,10:40:00,Technical Support,Y,Y,57,00:06:49,3,,,,,409
+ID0034,Jim,03/02/2023,10:50:00,Payment related,Y,N,53,00:01:44,2,,,,,104
+ID0035,Becky,03/02/2023,11:00:00,Streaming,Y,Y,119,00:01:31,5,,,,,91
+ID0036,Diane,03/02/2023,11:10:00,Streaming,N,N,,,,,,,,
+ID0037,Martha,03/02/2023,11:20:00,Technical Support,Y,N,20,00:01:12,2,,,,,72
+ID0038,Joe,03/02/2023,11:30:00,Technical Support,Y,Y,52,00:00:36,3,,,,,36
+ID0039,Stewart,03/02/2023,11:40:00,Contract related,Y,Y,74,00:06:41,1,,,,,401
+ID0040,Greg,03/02/2023,11:50:00,Technical Support,Y,Y,49,00:02:29,3,,,,,149
+ID0041,Jim,03/02/2023,15:30:00,Technical Support,Y,Y,27,00:02:09,5,,,,,129
+ID0042,Greg,03/02/2023,15:40:00,Contract related,Y,Y,100,00:04:54,5,,,,,294
+ID0043,Diane,03/02/2023,15:50:00,Technical Support,Y,Y,45,00:06:21,3,,,,,381
+ID0044,Becky,03/02/2023,16:00:00,Payment related,Y,Y,98,00:03:14,5,,,,,194
+ID0045,Diane,03/02/2023,16:10:00,Admin Support,Y,Y,25,00:05:13,5,,,,,313
+ID0046,Jim,03/02/2023,16:20:00,Contract related,N,N,,,,,,,,0
+ID0047,Dan,03/02/2023,16:30:00,Admin Support,Y,Y,107,00:02:22,3,,,,,142
+ID0048,Martha,03/02/2023,16:40:00,Contract related,N,N,,,,,,,,0
+ID0049,Joe,03/02/2023,13:20:00,Technical Support,Y,Y,104,00:03:35,5,,,,,215
+ID0050,Dan,03/03/2023,09:30:00,Technical Support,N,N,,,,,,,,0
+ID0051,Martha,03/03/2023,09:40:00,Contract related,N,N,,,,,,,,0
+ID0052,Jim,03/03/2023,09:50:00,Admin Support,N,N,,,,,,,,0
+ID0053,Stewart,03/03/2023,10:00:00,Payment related,Y,Y,13,00:01:15,5,,,,,75
+ID0054,Dan,03/03/2023,10:10:00,Payment related,Y,Y,119,00:02:32,5,,,,,152
+ID0055,Becky,03/03/2023,10:20:00,Streaming,Y,Y,35,00:01:19,3,,,,,79
+ID0056,Dan,03/03/2023,10:30:00,Streaming,Y,Y,83,00:06:45,4,,,,,405
+ID0057,Jim,03/03/2023,10:40:00,Technical Support,Y,Y,48,00:02:52,2,,,,,172
+ID0058,Stewart,03/03/2023,10:50:00,Admin Support,Y,Y,45,00:03:23,5,,,,,203
+ID0059,Dan,03/03/2023,11:00:00,Technical Support,Y,Y,65,00:06:00,5,,,,,360
+ID0060,Dan,03/03/2023,11:10:00,Contract related,Y,Y,50,00:04:26,3,,,,,266
+ID0061,Diane,03/03/2023,12:50:00,Streaming,Y,Y,17,00:06:15,3,,,,,375
+ID0062,Joe,03/03/2023,13:00:00,Technical Support,N,N,,,,,,,,0
+ID0063,Dan,03/03/2023,13:10:00,Streaming,Y,Y,96,00:06:46,1,,,,,406
+ID0064,Stewart,03/03/2023,13:20:00,Streaming,Y,Y,90,00:06:23,3,,,,,383
+ID0065,Jim,03/03/2023,13:30:00,Contract related,Y,Y,98,00:06:25,2,,,,,385
+ID0066,Diane,03/03/2023,13:40:00,Technical Support,Y,N,90,00:01:23,4,,,,,83
+ID0067,Jim,03/03/2023,13:50:00,Contract related,Y,Y,98,00:05:49,5,,,,,349
+ID0068,Jim,03/03/2023,14:00:00,Contract related,Y,Y,70,00:03:12,5,,,,,192
+ID0069,Diane,03/03/2023,15:10:00,Contract related,Y,Y,69,00:04:45,4,,,,,285
+ID0070,Diane,03/03/2023,15:30:00,Admin Support,N,N,,,,,,,,0
+ID0071,Joe,03/03/2023,15:40:00,Technical Support,Y,Y,120,00:02:11,4,,,,,131
+ID0072,Stewart,03/03/2023,11:40:00,Admin Support,Y,Y,113,00:05:51,5,,,,,351
+ID0073,Greg,03/03/2023,11:50:00,Payment related,Y,N,10,00:02:19,5,,,,,139
+ID0074,Becky,03/03/2023,12:50:00,Contract related,Y,Y,122,00:04:53,1,,,,,293
+ID0075,Stewart,03/03/2023,13:00:00,Technical Support,Y,N,125,00:01:38,3,,,,,98
+ID0076,Diane,03/03/2023,13:10:00,Admin Support,N,N,,,,,,,,0
+ID0077,Martha,03/06/2023,09:50:00,Technical Support,Y,Y,33,00:06:38,2,,,,,398
+ID0078,Dan,03/06/2023,10:00:00,Contract related,Y,Y,51,00:06:22,2,,,,,382
+ID0079,Becky,03/06/2023,10:10:00,Contract related,Y,Y,58,00:03:28,3,,,,,208
+ID0080,Dan,03/06/2023,10:20:00,Admin Support,Y,Y,121,00:04:47,5,,,,,287
+ID0081,Diane,03/06/2023,10:30:00,Admin Support,Y,Y,118,00:02:06,4,,,,,126
+ID0082,Greg,03/06/2023,10:40:00,Payment related,Y,Y,52,00:06:56,4,,,,,416
+ID0083,Stewart,03/06/2023,10:50:00,Admin Support,Y,Y,55,00:04:44,3,,,,,284
+ID0084,Dan,03/06/2023,11:30:00,Contract related,Y,Y,68,00:05:59,4,,,,,359
+ID0085,Becky,03/06/2023,11:40:00,Technical Support,Y,Y,106,00:04:22,5,,,,,262
+ID0086,Martha,03/06/2023,11:50:00,Technical Support,Y,Y,32,00:04:36,3,,,,,276
+ID0087,Jim,03/06/2023,12:00:00,Payment related,N,N,,,,,,,,0
+ID0088,Martha,03/06/2023,12:10:00,Admin Support,Y,N,45,00:01:26,4,,,,,86
+ID0089,Joe,03/06/2023,12:20:00,Technical Support,Y,Y,119,00:03:32,4,,,,,212
+ID0090,Dan,03/06/2023,12:30:00,Streaming,N,N,,,,,,,,0
+ID0091,Jim,03/06/2023,12:40:00,Contract related,Y,Y,46,00:05:41,1,,,,,341
+ID0092,Stewart,03/06/2023,12:50:00,Technical Support,Y,Y,101,00:01:28,3,,,,,88
+ID0093,Jim,03/06/2023,10:00:00,Technical Support,Y,Y,56,00:02:52,3,,,,,172
+ID0094,Becky,03/06/2023,10:15:00,Technical Support,Y,Y,80,00:00:53,3,,,,,53
+ID0095,Diane,03/06/2023,10:45:00,Streaming,Y,Y,24,00:01:36,3,,,,,96
+ID0096,Stewart,03/06/2023,11:15:00,Payment related,Y,Y,113,00:03:54,2,,,,,234
+ID0097,Greg,03/06/2023,14:00:00,Contract related,Y,Y,19,00:02:03,4,,,,,123
+ID0098,Martha,03/06/2023,14:15:00,Streaming,N,N,,,,,,,,0
+ID0099,Dan,03/06/2023,14:30:00,Contract related,Y,Y,45,00:06:37,3,,,,,397
+ID0100,Diane,03/06/2023,14:45:00,Technical Support,Y,Y,95,00:05:11,1,,,,,311
+ID0101,Becky,03/06/2023,15:00:00,Technical Support,N,N,,,,,,,,0
+ID0102,Martha,03/06/2023,16:00:00,Technical Support,Y,N,79,00:05:31,1,,,,,331
+ID0103,Diane,03/06/2023,16:15:00,Payment related,Y,Y,22,00:03:56,2,,,,,236
+ID0104,Martha,03/06/2023,16:30:00,Contract related,Y,Y,38,00:06:36,1,,,,,396
+ID0105,Becky,03/06/2023,16:45:00,Technical Support,Y,Y,112,00:03:25,5,,,,,205
+ID0106,Becky,03/06/2023,17:00:00,Payment related,Y,Y,65,00:04:57,3,,,,,297
+ID0107,Joe,03/06/2023,17:30:00,Streaming,N,N,,,,,,,,0
+ID0108,Becky,03/06/2023,15:15:00,Contract related,Y,N,55,00:02:32,1,,,,,152
+ID0109,Stewart,03/06/2023,15:30:00,Admin Support,N,N,,,,,,,,0
+ID0110,Joe,03/06/2023,15:45:00,Streaming,Y,Y,19,00:02:38,2,,,,,158
+ID0111,Becky,03/06/2023,09:00:00,Technical Support,Y,Y,53,00:00:56,3,,,,,56
+ID0112,Diane,03/06/2023,09:30:00,Technical Support,Y,Y,24,00:06:06,5,,,,,366
+ID0113,Martha,03/06/2023,09:45:00,Streaming,Y,Y,73,00:06:01,3,,,,,361
+ID0114,Stewart,03/06/2023,10:00:00,Technical Support,N,N,,,,,,,,0
+ID0115,Jim,03/06/2023,10:15:00,Technical Support,Y,Y,55,00:05:47,5,,,,,347
+ID0116,Greg,03/06/2023,10:45:00,Payment related,N,N,,,,,,,,0
+ID0117,Diane,03/06/2023,11:15:00,Streaming,N,N,,,,,,,,0
+ID0118,Martha,03/06/2023,11:30:00,Streaming,Y,Y,23,00:05:18,4,,,,,318
+ID0119,Dan,03/06/2023,11:45:00,Payment related,Y,N,124,00:02:23,5,,,,,143
+ID0120,Dan,03/06/2023,13:15:00,Contract related,N,N,,,,,,,,0
+ID0121,Dan,03/06/2023,13:30:00,Technical Support,Y,Y,103,00:01:01,4,,,,,61
+ID0122,Martha,03/07/2023,09:40:00,Contract related,Y,Y,69,00:03:45,4,,,,,225
+ID0123,Joe,03/07/2023,10:00:00,Streaming,Y,Y,78,00:01:12,3,,,,,72
+ID0124,Martha,03/07/2023,10:40:00,Technical Support,Y,Y,78,00:03:26,5,,,,,206
+ID0125,Martha,03/07/2023,11:00:00,Technical Support,N,N,,,,,,,,0
+ID0126,Diane,03/07/2023,11:20:00,Payment related,Y,Y,44,00:05:38,4,,,,,338
+ID0127,Martha,03/07/2023,11:40:00,Admin Support,Y,Y,35,00:02:46,4,,,,,166
+ID0128,Becky,03/07/2023,12:00:00,Admin Support,Y,Y,102,00:05:26,4,,,,,326
+ID0129,Jim,03/07/2023,12:20:00,Contract related,Y,Y,99,00:05:51,3,,,,,351
+ID0130,Jim,03/07/2023,13:40:00,Admin Support,Y,Y,29,00:04:09,3,,,,,249
+ID0131,Becky,03/07/2023,14:00:00,Admin Support,Y,N,42,00:00:59,5,,,,,59
+ID0132,Diane,03/07/2023,14:20:00,Payment related,Y,Y,113,00:05:40,4,,,,,340
+ID0133,Dan,03/07/2023,14:40:00,Admin Support,Y,Y,124,00:00:53,2,,,,,53
+ID0134,Jim,03/07/2023,15:00:00,Technical Support,N,N,,,,,,,,0
+ID0135,Dan,03/07/2023,15:20:00,Payment related,Y,Y,55,00:02:13,1,,,,,133
+ID0136,Greg,03/07/2023,16:40:00,Technical Support,Y,N,105,00:05:59,3,,,,,359
+ID0137,Stewart,03/07/2023,17:00:00,Contract related,Y,N,112,00:03:12,5,,,,,192
+ID0138,Martha,03/07/2023,17:20:00,Contract related,N,N,,,,,,,,0
+ID0139,Becky,03/07/2023,10:50:00,Technical Support,Y,Y,43,00:06:20,5,,,,,380
+ID0140,Joe,03/07/2023,11:00:00,Payment related,Y,Y,20,00:01:44,3,,,,,104
+ID0141,Greg,03/07/2023,11:20:00,Technical Support,Y,Y,84,00:01:43,5,,,,,103
+ID0142,Jim,03/07/2023,11:30:00,Contract related,Y,Y,20,00:02:44,4,,,,,164
+ID0143,Greg,03/07/2023,11:50:00,Streaming,Y,Y,101,00:02:16,3,,,,,136
+ID0144,Diane,03/07/2023,12:00:00,Technical Support,Y,Y,31,00:02:55,5,,,,,175
+ID0145,Jim,03/07/2023,12:40:00,Contract related,Y,Y,56,00:04:09,5,,,,,249
+ID0146,Joe,03/07/2023,14:20:00,Contract related,N,N,,,,,,,,0
+ID0147,Joe,03/07/2023,14:50:00,Payment related,Y,Y,77,00:01:27,5,,,,,87
+ID0148,Jim,03/07/2023,15:20:00,Payment related,Y,Y,46,00:00:50,4,,,,,50
+ID0149,Stewart,03/07/2023,15:30:00,Admin Support,Y,Y,88,00:04:26,3,,,,,266
+ID0150,Diane,03/07/2023,15:40:00,Payment related,Y,Y,88,00:00:58,1,,,,,58
+ID0151,Joe,03/07/2023,16:00:00,Technical Support,Y,Y,124,00:06:03,1,,,,,363
+ID0152,Stewart,03/07/2023,16:20:00,Contract related,N,N,,,,,,,,0
+ID0153,Martha,03/07/2023,16:30:00,Payment related,Y,N,52,00:06:59,4,,,,,419
+ID0154,Joe,03/07/2023,16:40:00,Admin Support,Y,Y,67,00:06:10,5,,,,,370
+ID0155,Martha,03/07/2023,11:30:00,Payment related,Y,Y,119,00:04:16,3,,,,,256
+ID0156,Dan,03/07/2023,12:00:00,Admin Support,Y,Y,98,00:04:37,2,,,,,277
+ID0157,Jim,03/07/2023,12:30:00,Technical Support,N,N,,,,,,,,0
+ID0158,Joe,03/07/2023,13:00:00,Technical Support,Y,Y,118,00:04:18,3,,,,,258
+ID0159,Becky,03/07/2023,15:10:00,Admin Support,Y,Y,123,00:01:15,3,,,,,75
+ID0160,Becky,03/07/2023,15:20:00,Streaming,Y,N,86,00:05:37,1,,,,,337
+ID0161,Greg,03/07/2023,15:55:00,Admin Support,Y,Y,104,00:02:09,3,,,,,129
+ID0162,Greg,03/07/2023,17:30:00,Payment related,Y,Y,69,00:01:33,2,,,,,93
+ID0163,Dan,03/07/2023,11:35:00,Contract related,Y,Y,113,00:02:38,1,,,,,158
+ID0164,Joe,03/07/2023,11:45:00,Streaming,Y,Y,88,00:03:23,5,,,,,203
+ID0165,Joe,03/08/2023,09:00:00,Streaming,N,N,,,,,,,,0
+ID0166,Stewart,03/08/2023,09:25:00,Payment related,N,N,,,,,,,,0
+ID0167,Joe,03/08/2023,09:45:00,Payment related,Y,Y,84,00:00:58,2,,,,,58
+ID0168,Diane,03/08/2023,10:00:00,Streaming,Y,Y,113,00:01:22,3,,,,,82
+ID0169,Joe,03/08/2023,12:45:00,Streaming,Y,Y,38,00:05:31,4,,,,,331
+ID0170,Dan,03/08/2023,13:20:00,Streaming,Y,Y,14,00:06:14,4,,,,,374
+ID0171,Martha,03/08/2023,13:45:00,Streaming,Y,N,25,00:05:32,4,,,,,332
+ID0172,Dan,03/08/2023,15:10:00,Contract related,N,N,,,,,,,,0
+ID0173,Diane,03/08/2023,10:20:00,Technical Support,N,N,,,,,,,,0
+ID0174,Joe,03/08/2023,11:35:00,Payment related,Y,Y,117,00:02:07,4,,,,,127
+ID0175,Stewart,03/08/2023,10:30:00,Payment related,Y,N,57,00:06:01,2,,,,,361
+ID0176,Martha,03/08/2023,11:00:00,Technical Support,Y,Y,119,00:05:19,5,,,,,319
+ID0177,Martha,03/08/2023,11:30:00,Contract related,N,N,,,,,,,,0
+ID0178,Diane,03/08/2023,11:45:00,Streaming,Y,Y,93,00:06:32,5,,,,,392
+ID0179,Martha,03/08/2023,12:15:00,Payment related,Y,Y,86,00:01:04,4,,,,,64
+ID0180,Joe,03/08/2023,12:30:00,Streaming,N,N,,,,,,,,0
+ID0181,Dan,03/08/2023,13:15:00,Contract related,Y,Y,92,00:02:59,3,,,,,179
+ID0182,Greg,03/08/2023,15:30:00,Streaming,N,N,,,,,,,,0
+ID0183,Martha,03/08/2023,16:45:00,Technical Support,Y,Y,106,00:05:42,3,,,,,342
+ID0184,Stewart,03/08/2023,10:10:00,Technical Support,Y,Y,67,00:02:44,3,,,,,164
+ID0185,Jim,03/08/2023,10:35:00,Streaming,Y,Y,90,00:04:17,3,,,,,257
+ID0186,Diane,03/08/2023,11:00:00,Technical Support,N,N,,,,,,,,0
+ID0187,Becky,03/08/2023,11:10:00,Streaming,Y,N,50,00:03:49,4,,,,,229
+ID0188,Diane,03/08/2023,12:45:00,Admin Support,Y,N,89,00:04:16,3,,,,,256
+ID0189,Jim,03/08/2023,13:00:00,Admin Support,Y,Y,74,00:06:18,3,,,,,378
+ID0190,Martha,03/08/2023,13:05:00,Payment related,Y,Y,63,00:02:22,2,,,,,142
+ID0191,Becky,03/08/2023,16:40:00,Contract related,Y,Y,45,00:06:31,5,,,,,391
+ID0192,Martha,03/08/2023,17:15:00,Technical Support,N,N,,,,,,,,0
+ID0193,Dan,03/08/2023,17:20:00,Payment related,Y,Y,31,00:06:43,2,,,,,403
+ID0194,Joe,03/08/2023,14:40:00,Streaming,N,N,,,,,,,,0
+ID0195,Joe,03/08/2023,15:20:00,Contract related,Y,Y,43,00:03:44,5,,,,,224
+ID0196,Martha,03/08/2023,15:40:00,Streaming,Y,Y,50,00:05:42,4,,,,,342
+ID0197,Dan,03/08/2023,16:00:00,Technical Support,Y,Y,48,00:05:12,4,,,,,312
+ID0198,Martha,03/08/2023,16:20:00,Admin Support,Y,Y,113,00:02:44,5,,,,,164
+ID0199,Jim,03/08/2023,17:00:00,Streaming,N,N,,,,,,,,0
+ID0200,Joe,03/08/2023,10:00:00,Technical Support,Y,Y,103,00:06:40,5,,,,,400
+ID0201,Becky,03/08/2023,10:20:00,Technical Support,Y,N,95,00:04:27,3,,,,,267
+ID0202,Joe,03/08/2023,10:40:00,Admin Support,Y,Y,30,00:05:04,1,,,,,304
+ID0203,Greg,03/08/2023,11:20:00,Admin Support,Y,Y,124,00:03:19,3,,,,,199
+ID0204,Diane,03/08/2023,17:00:00,Admin Support,Y,Y,17,00:02:03,5,,,,,123
+ID0205,Stewart,03/08/2023,13:40:00,Streaming,Y,Y,113,00:06:00,3,,,,,360
+ID0206,Jim,03/08/2023,14:20:00,Technical Support,Y,Y,25,00:02:27,5,,,,,147
+ID0207,Jim,03/08/2023,14:40:00,Admin Support,Y,Y,52,00:04:22,5,,,,,262
+ID0208,Dan,03/08/2023,15:20:00,Admin Support,Y,Y,28,00:02:44,5,,,,,164
+ID0209,Greg,03/08/2023,17:00:00,Technical Support,Y,Y,69,00:03:05,3,,,,,185
+ID0210,Martha,03/08/2023,16:20:00,Streaming,Y,Y,106,00:03:52,3,,,,,232
+ID0211,Jim,03/09/2023,10:40:00,Technical Support,N,N,,,,,,,,0
+ID0212,Joe,03/09/2023,11:00:00,Payment related,Y,Y,26,00:04:59,3,,,,,299
+ID0213,Joe,03/09/2023,12:00:00,Payment related,Y,Y,53,00:05:55,4,,,,,355
+ID0214,Martha,03/09/2023,12:20:00,Technical Support,Y,Y,77,00:04:10,2,,,,,250
+ID0215,Jim,03/09/2023,15:20:00,Contract related,Y,Y,45,00:03:02,3,,,,,182
+ID0216,Becky,03/09/2023,16:30:00,Technical Support,N,N,,,,,,,,0
+ID0217,Greg,03/09/2023,16:50:00,Streaming,Y,Y,56,00:04:16,4,,,,,256
+ID0218,Stewart,03/09/2023,17:00:00,Admin Support,Y,Y,13,00:03:56,2,,,,,236
+ID0219,Stewart,03/09/2023,13:40:00,Admin Support,Y,Y,120,00:06:50,5,,,,,410
+ID0220,Diane,03/09/2023,14:20:00,Payment related,Y,Y,22,00:00:50,1,,,,,50
+ID0221,Martha,03/09/2023,15:00:00,Payment related,Y,Y,81,00:03:21,4,,,,,201
+ID0222,Jim,03/09/2023,15:25:00,Streaming,N,N,,,,,,,,0
+ID0223,Martha,03/09/2023,09:00:00,Contract related,Y,Y,71,00:00:48,2,,,,,48
+ID0224,Stewart,03/09/2023,09:30:00,Payment related,Y,Y,75,00:01:33,4,,,,,93
+ID0225,Martha,03/09/2023,10:30:00,Technical Support,Y,Y,77,00:02:42,4,,,,,162
+ID0226,Joe,03/09/2023,16:00:00,Streaming,Y,Y,88,00:06:27,4,,,,,387
+ID0227,Stewart,03/09/2023,16:30:00,Admin Support,Y,Y,82,00:03:05,2,,,,,185
+ID0228,Jim,03/09/2023,17:00:00,Technical Support,Y,Y,110,00:06:30,3,,,,,390
+ID0229,Martha,03/09/2023,13:30:00,Admin Support,Y,N,70,00:01:32,3,,,,,92
+ID0230,Becky,03/09/2023,14:00:00,Admin Support,Y,Y,117,00:03:40,3,,,,,220
+ID0231,Joe,03/09/2023,15:10:00,Streaming,Y,Y,18,00:00:50,3,,,,,50
+ID0232,Joe,03/09/2023,16:40:00,Streaming,Y,Y,113,00:02:36,4,,,,,156
+ID0233,Stewart,03/09/2023,16:50:00,Contract related,Y,N,68,00:03:29,5,,,,,209
+ID0234,Greg,03/09/2023,17:25:00,Payment related,Y,Y,67,00:04:14,5,,,,,254
+ID0235,Joe,03/09/2023,17:30:00,Technical Support,Y,Y,36,00:01:07,5,,,,,67
+ID0236,Stewart,03/09/2023,09:55:00,Streaming,N,N,,,,,,,,0
+ID0237,Becky,03/09/2023,10:55:00,Technical Support,Y,Y,33,00:02:30,1,,,,,150
+ID0238,Dan,03/09/2023,11:05:00,Contract related,Y,Y,113,00:01:59,5,,,,,119
+ID0239,Greg,03/09/2023,11:15:00,Contract related,Y,Y,106,00:06:19,3,,,,,379
+ID0240,Joe,03/09/2023,11:25:00,Streaming,Y,Y,23,00:04:59,3,,,,,299
+ID0241,Joe,03/09/2023,11:50:00,Streaming,N,N,,,,,,,,0
+ID0242,Greg,03/09/2023,09:02:00,Payment related,Y,Y,11,00:04:42,1,,,,,282
+ID0243,Greg,03/09/2023,09:56:00,Contract related,Y,Y,73,00:04:45,5,,,,,285
+ID0244,Dan,03/09/2023,10:26:00,Admin Support,Y,Y,109,00:04:49,5,,,,,289
+ID0245,Martha,03/09/2023,10:40:00,Payment related,Y,Y,29,00:04:14,4,,,,,254
+ID0246,Dan,03/09/2023,12:52:00,Streaming,N,N,,,,,,,,0
+ID0247,Becky,03/09/2023,12:56:00,Admin Support,Y,Y,81,00:01:14,4,,,,,74
+ID0248,Greg,03/09/2023,13:18:00,Contract related,Y,Y,59,00:03:52,1,,,,,232
+ID0249,Becky,03/09/2023,13:34:00,Streaming,Y,Y,32,00:06:29,4,,,,,389
+ID0250,Martha,03/09/2023,13:54:00,Admin Support,Y,Y,116,00:00:42,4,,,,,42
+ID0251,Diane,03/09/2023,14:00:00,Payment related,Y,Y,92,00:01:55,5,,,,,115
+ID0252,Greg,03/09/2023,16:26:00,Streaming,Y,Y,62,00:06:02,5,,,,,362
+ID0253,Joe,03/09/2023,16:56:00,Payment related,Y,Y,83,00:01:53,5,,,,,113
+ID0254,Joe,03/09/2023,14:42:00,Admin Support,Y,Y,71,00:02:31,3,,,,,151
+ID0255,Greg,03/09/2023,15:56:00,Admin Support,Y,N,74,00:04:32,3,,,,,272
+ID0256,Joe,03/10/2023,09:04:00,Technical Support,Y,Y,96,00:05:46,4,,,,,346
+ID0257,Diane,03/10/2023,09:34:00,Admin Support,Y,Y,110,00:01:41,1,,,,,101
+ID0258,Jim,03/10/2023,09:44:00,Streaming,Y,N,110,00:02:38,3,,,,,158
+ID0259,Dan,03/10/2023,10:56:00,Technical Support,Y,Y,117,00:03:03,4,,,,,183
+ID0260,Becky,03/10/2023,11:10:00,Admin Support,Y,Y,44,00:05:53,3,,,,,353
+ID0261,Diane,03/10/2023,12:16:00,Contract related,Y,Y,47,00:06:02,4,,,,,362
+ID0262,Greg,03/10/2023,14:14:00,Admin Support,Y,Y,97,00:01:16,3,,,,,76
+ID0263,Greg,03/10/2023,14:16:00,Streaming,Y,Y,67,00:02:39,4,,,,,159
+ID0264,Diane,03/10/2023,14:30:00,Streaming,Y,Y,72,00:06:48,3,,,,,408
+ID0265,Becky,03/10/2023,14:42:00,Contract related,Y,Y,68,00:04:21,3,,,,,261
+ID0266,Joe,03/10/2023,12:28:00,Payment related,Y,Y,98,00:06:22,5,,,,,382
+ID0267,Joe,03/10/2023,12:44:00,Streaming,Y,Y,120,00:00:56,3,,,,,56
+ID0268,Dan,03/10/2023,09:21:00,Payment related,Y,Y,13,00:02:33,1,,,,,153
+ID0269,Jim,03/10/2023,09:51:00,Admin Support,Y,Y,95,00:01:47,5,,,,,107
+ID0270,Martha,03/10/2023,10:18:00,Payment related,Y,Y,31,00:00:42,5,,,,,42
+ID0271,Dan,03/10/2023,16:34:00,Streaming,Y,Y,113,00:06:22,3,,,,,382
+ID0272,Martha,03/10/2023,17:12:00,Technical Support,Y,Y,116,00:04:40,3,,,,,280
+ID0273,Martha,03/10/2023,14:46:00,Admin Support,Y,N,94,00:05:29,5,,,,,329
+ID0274,Martha,03/10/2023,15:19:00,Admin Support,Y,N,51,00:04:42,4,,,,,282
+ID0275,Diane,03/10/2023,10:30:00,Technical Support,Y,Y,60,00:04:07,4,,,,,247
+ID0276,Diane,03/10/2023,11:00:00,Contract related,Y,Y,59,00:06:04,2,,,,,364
+ID0277,Stewart,03/10/2023,14:00:00,Technical Support,N,N,,,,,,,,0
+ID0278,Greg,03/10/2023,15:55:00,Payment related,N,N,,,,,,,,0
+ID0279,Joe,03/10/2023,16:05:00,Technical Support,N,N,,,,,,,,0
+ID0280,Dan,03/10/2023,16:20:00,Contract related,Y,Y,16,00:03:33,4,,,,,213
+ID0281,Diane,03/10/2023,10:20:00,Technical Support,Y,Y,81,00:01:51,3,,,,,111
+ID0282,Joe,03/10/2023,11:00:00,Streaming,Y,Y,65,00:06:46,1,,,,,406
+ID0283,Martha,03/10/2023,11:40:00,Streaming,Y,Y,55,00:03:04,2,,,,,184
+ID0284,Martha,03/10/2023,11:36:00,Technical Support,N,N,,,,,,,,0
+ID0285,Martha,03/10/2023,11:46:00,Technical Support,Y,Y,31,00:02:25,4,,,,,145
+ID0286,Diane,03/10/2023,12:10:00,Streaming,Y,Y,45,00:05:13,2,,,,,313
+ID0287,Greg,03/10/2023,12:14:00,Technical Support,N,N,,,,,,,,0
+ID0288,Stewart,03/10/2023,14:56:00,Payment related,Y,Y,43,00:02:09,5,,,,,129
+ID0289,Stewart,03/10/2023,16:00:00,Technical Support,Y,Y,55,00:05:56,4,,,,,356
+ID0290,Stewart,03/13/2023,16:40:00,Contract related,Y,Y,63,00:02:19,3,,,,,139
+ID0291,Joe,03/13/2023,09:00:00,Payment related,N,N,,,,,,,,0
+ID0292,Jim,03/13/2023,09:54:00,Contract related,Y,Y,122,00:05:52,1,,,,,352
+ID0293,Stewart,03/13/2023,10:04:00,Contract related,Y,Y,71,00:02:39,4,,,,,159
+ID0294,Jim,03/13/2023,10:30:00,Technical Support,Y,Y,54,00:04:57,4,,,,,297
+ID0295,Stewart,03/13/2023,16:21:00,Streaming,Y,Y,74,00:03:22,4,,,,,202
+ID0296,Stewart,03/13/2023,16:24:00,Admin Support,Y,Y,125,00:04:47,4,,,,,287
+ID0297,Dan,03/13/2023,16:29:00,Payment related,Y,Y,110,00:03:43,3,,,,,223
+ID0298,Becky,03/13/2023,16:38:00,Streaming,N,N,,,,,,,,0
+ID0299,Martha,03/13/2023,10:54:00,Technical Support,Y,Y,74,00:01:31,5,,,,,91
+ID0300,Diane,03/13/2023,11:34:00,Payment related,Y,Y,80,00:04:27,4,,,,,267
+ID0301,Dan,03/13/2023,11:57:00,Payment related,N,N,,,,,,,,0
+ID0302,Joe,03/13/2023,12:18:00,Contract related,Y,Y,110,00:03:54,2,,,,,234
+ID0303,Stewart,03/13/2023,09:46:00,Payment related,Y,Y,26,00:03:08,3,,,,,188
+ID0304,Greg,03/13/2023,09:32:00,Technical Support,N,N,,,,,,,,0
+ID0305,Joe,03/13/2023,11:34:00,Admin Support,Y,Y,97,00:01:47,3,,,,,107
+ID0306,Dan,03/13/2023,11:57:00,Admin Support,Y,N,82,00:05:40,3,,,,,340
+ID0307,Becky,03/13/2023,12:18:00,Streaming,Y,N,102,00:05:53,5,,,,,353
+ID0308,Jim,03/13/2023,09:34:00,Admin Support,Y,Y,120,00:00:52,5,,,,,52
+ID0309,Greg,03/13/2023,09:43:00,Streaming,Y,Y,70,00:05:19,3,,,,,319
+ID0310,Diane,03/13/2023,12:46:00,Admin Support,N,N,,,,,,,,0
+ID0311,Stewart,03/13/2023,14:02:00,Payment related,Y,Y,122,00:02:56,3,,,,,176
+ID0312,Martha,03/13/2023,14:34:00,Streaming,N,N,,,,,,,,0
+ID0313,Joe,03/13/2023,14:36:00,Payment related,Y,Y,19,00:00:55,1,,,,,55
+ID0314,Greg,03/13/2023,14:38:00,Payment related,Y,Y,71,00:02:37,4,,,,,157
+ID0315,Joe,03/13/2023,14:46:00,Technical Support,Y,Y,24,00:04:59,1,,,,,299
+ID0316,Martha,03/13/2023,15:10:00,Technical Support,Y,Y,67,00:05:36,1,,,,,336
+ID0317,Martha,03/13/2023,16:12:00,Streaming,Y,N,57,00:04:14,3,,,,,254
+ID0318,Diane,03/13/2023,16:40:00,Streaming,Y,Y,108,00:05:03,4,,,,,303
+ID0319,Stewart,03/13/2023,14:46:00,Payment related,Y,Y,99,00:04:08,4,,,,,248
+ID0320,Stewart,03/13/2023,15:10:00,Payment related,Y,Y,56,00:04:52,1,,,,,292
+ID0321,Stewart,03/13/2023,15:16:00,Payment related,Y,Y,121,00:03:57,3,,,,,237
+ID0322,Greg,03/13/2023,15:18:00,Admin Support,N,N,,,,,,,,0
+ID0323,Joe,03/13/2023,15:20:00,Contract related,Y,Y,72,00:06:00,1,,,,,360
+ID0324,Greg,03/13/2023,10:00:00,Contract related,Y,Y,54,00:06:15,4,,,,,375
+ID0325,Martha,03/13/2023,10:08:00,Admin Support,Y,Y,30,00:04:36,3,,,,,276
+ID0326,Jim,03/13/2023,10:24:00,Payment related,Y,Y,44,00:01:04,2,,,,,64
+ID0327,Greg,03/13/2023,10:30:00,Payment related,Y,N,97,00:01:58,4,,,,,118
+ID0328,Jim,03/13/2023,10:34:00,Streaming,Y,Y,47,00:01:49,3,,,,,109
+ID0329,Dan,03/13/2023,10:58:00,Streaming,Y,Y,53,00:01:43,3,,,,,103
+ID0330,Dan,03/13/2023,11:44:00,Contract related,N,N,,,,,,,,0
+ID0331,Martha,03/13/2023,12:06:00,Payment related,N,N,,,,,,,,0
+ID0332,Jim,03/13/2023,12:22:00,Streaming,N,N,,,,,,,,0
+ID0333,Stewart,03/13/2023,12:24:00,Admin Support,Y,Y,81,00:03:45,3,,,,,225
+ID0334,Diane,03/13/2023,11:25:00,Contract related,Y,Y,11,00:00:34,4,,,,,34
+ID0335,Martha,03/13/2023,11:50:00,Payment related,Y,Y,48,00:00:53,5,,,,,53
+ID0336,Stewart,03/13/2023,12:05:00,Contract related,Y,Y,37,00:06:54,5,,,,,414
+ID0337,Martha,03/13/2023,12:10:00,Technical Support,Y,Y,115,00:02:34,4,,,,,154
+ID0338,Greg,03/13/2023,12:35:00,Payment related,Y,Y,81,00:00:53,4,,,,,53
+ID0339,Becky,03/13/2023,14:50:00,Contract related,N,N,,,,,,,,0
+ID0340,Jim,03/13/2023,14:55:00,Admin Support,Y,Y,12,00:03:12,5,,,,,192
+ID0341,Stewart,03/13/2023,15:05:00,Admin Support,Y,Y,75,00:02:51,3,,,,,171
+ID0342,Jim,03/13/2023,15:20:00,Contract related,Y,Y,42,00:01:17,4,,,,,77
+ID0343,Greg,03/13/2023,15:30:00,Admin Support,Y,Y,96,00:01:45,5,,,,,105
+ID0344,Stewart,03/13/2023,16:30:00,Payment related,Y,Y,58,00:01:51,5,,,,,111
+ID0345,Dan,03/13/2023,16:50:00,Contract related,Y,Y,62,00:05:16,5,,,,,316
+ID0346,Greg,03/13/2023,16:55:00,Payment related,Y,Y,74,00:02:10,5,,,,,130
+ID0347,Becky,03/13/2023,17:00:00,Technical Support,Y,Y,26,00:01:10,3,,,,,70
+ID0348,Diane,03/13/2023,11:42:00,Technical Support,N,N,,,,,,,,0
+ID0349,Joe,03/13/2023,12:02:00,Technical Support,Y,Y,40,00:05:08,2,,,,,308
+ID0350,Joe,03/13/2023,12:08:00,Streaming,Y,Y,12,00:04:54,3,,,,,294
+ID0351,Joe,03/13/2023,12:09:00,Contract related,Y,Y,114,00:03:41,5,,,,,221
+ID0352,Becky,03/13/2023,12:12:00,Contract related,Y,Y,85,00:03:29,4,,,,,209
+ID0353,Diane,03/13/2023,12:58:00,Admin Support,Y,Y,52,00:01:55,5,,,,,115
+ID0354,Greg,03/13/2023,15:30:00,Streaming,Y,Y,60,00:04:18,3,,,,,258
+ID0355,Joe,03/13/2023,15:40:00,Admin Support,Y,Y,76,00:05:07,4,,,,,307
+ID0356,Stewart,03/13/2023,16:40:00,Contract related,N,N,,,,,,,,0
+ID0357,Becky,03/13/2023,16:46:00,Streaming,N,N,,,,,,,,0
+ID0358,Joe,03/13/2023,16:53:00,Streaming,Y,Y,25,00:01:20,5,,,,,80
+ID0359,Greg,03/13/2023,16:57:00,Streaming,Y,Y,37,00:02:32,3,,,,,152
+ID0360,Dan,03/13/2023,09:06:00,Admin Support,Y,Y,71,00:05:41,3,,,,,341
+ID0361,Jim,03/13/2023,09:23:00,Admin Support,Y,Y,76,00:04:37,1,,,,,277
+ID0362,Stewart,03/13/2023,09:42:00,Technical Support,Y,Y,66,00:06:50,3,,,,,410
+ID0363,Diane,03/13/2023,09:44:00,Admin Support,Y,Y,72,00:03:25,3,,,,,205
+ID0364,Jim,03/13/2023,09:46:00,Admin Support,Y,Y,47,00:06:37,5,,,,,397
+ID0365,Jim,03/13/2023,10:09:00,Payment related,N,N,,,,,,,,0
+ID0366,Greg,03/13/2023,10:40:00,Payment related,Y,Y,29,00:02:51,5,,,,,171
+ID0367,Dan,03/13/2023,11:08:00,Streaming,N,N,,,,,,,,0
+ID0368,Becky,03/14/2023,11:24:00,Contract related,Y,Y,122,00:01:40,4,,,,,100
+ID0369,Greg,03/14/2023,11:42:00,Technical Support,Y,Y,52,00:04:06,5,,,,,246
+ID0370,Martha,03/14/2023,11:02:00,Admin Support,Y,Y,33,00:04:26,4,,,,,266
+ID0371,Joe,03/14/2023,11:04:00,Payment related,Y,Y,123,00:02:24,3,,,,,144
+ID0372,Greg,03/14/2023,11:10:00,Technical Support,Y,Y,23,00:02:03,4,,,,,123
+ID0373,Becky,03/14/2023,11:22:00,Streaming,N,N,,,,,,,,0
+ID0374,Stewart,03/14/2023,11:23:00,Admin Support,Y,N,29,00:03:25,5,,,,,205
+ID0375,Greg,03/14/2023,11:30:00,Contract related,N,N,,,,,,,,0
+ID0376,Becky,03/14/2023,11:32:00,Streaming,Y,Y,54,00:03:48,5,,,,,228
+ID0377,Dan,03/14/2023,09:27:00,Streaming,Y,Y,14,00:04:43,4,,,,,283
+ID0378,Dan,03/14/2023,09:35:00,Payment related,Y,Y,11,00:04:25,3,,,,,265
+ID0379,Joe,03/14/2023,09:41:00,Payment related,Y,Y,84,00:04:59,1,,,,,299
+ID0380,Martha,03/14/2023,09:44:00,Payment related,Y,Y,21,00:02:51,4,,,,,171
+ID0381,Martha,03/14/2023,09:59:00,Technical Support,Y,N,81,00:05:10,3,,,,,310
+ID0382,Dan,03/14/2023,13:01:00,Payment related,N,N,,,,,,,,0
+ID0383,Diane,03/14/2023,13:29:00,Admin Support,N,N,,,,,,,,0
+ID0384,Stewart,03/14/2023,13:52:00,Technical Support,Y,Y,84,00:06:22,4,,,,,382
+ID0385,Martha,03/14/2023,13:54:00,Streaming,Y,Y,118,00:03:35,2,,,,,215
+ID0386,Becky,03/14/2023,14:01:00,Technical Support,Y,Y,35,00:06:15,2,,,,,375
+ID0387,Dan,03/14/2023,14:19:00,Payment related,Y,Y,82,00:02:13,3,,,,,133
+ID0388,Jim,03/14/2023,14:34:00,Streaming,Y,Y,119,00:03:03,4,,,,,183
+ID0389,Jim,03/14/2023,16:14:00,Contract related,Y,Y,107,00:06:46,2,,,,,406
+ID0390,Joe,03/14/2023,16:27:00,Contract related,Y,Y,86,00:00:42,4,,,,,42
+ID0391,Diane,03/14/2023,16:54:00,Streaming,Y,Y,76,00:01:23,4,,,,,83
+ID0392,Stewart,03/14/2023,14:34:00,Streaming,Y,N,78,00:03:07,3,,,,,187
+ID0393,Jim,03/14/2023,14:49:00,Admin Support,Y,Y,118,00:00:33,3,,,,,33
+ID0394,Diane,03/14/2023,15:48:00,Technical Support,N,N,,,,,,,,0
+ID0395,Joe,03/14/2023,16:11:00,Admin Support,Y,Y,47,00:02:02,5,,,,,122
+ID0396,Diane,03/14/2023,13:01:00,Admin Support,Y,Y,86,00:02:58,2,,,,,178
+ID0397,Greg,03/14/2023,13:29:00,Technical Support,Y,Y,76,00:05:52,3,,,,,352
+ID0398,Jim,03/14/2023,13:52:00,Payment related,Y,Y,32,00:03:23,4,,,,,203
+ID0399,Joe,03/14/2023,13:54:00,Admin Support,Y,Y,98,00:03:33,5,,,,,213
+ID0400,Jim,03/14/2023,09:02:00,Technical Support,Y,Y,86,00:00:37,4,,,,,37
+ID0401,Diane,03/14/2023,09:10:00,Technical Support,Y,Y,37,00:01:05,3,,,,,65
+ID0402,Greg,03/14/2023,09:12:00,Admin Support,Y,Y,15,00:04:27,5,,,,,267
+ID0403,Diane,03/14/2023,09:38:00,Contract related,Y,Y,114,00:04:13,5,,,,,253
+ID0404,Stewart,03/14/2023,09:40:00,Payment related,N,N,,,,,,,,0
+ID0405,Jim,03/14/2023,09:54:00,Technical Support,N,N,,,,,,,,0
+ID0406,Martha,03/14/2023,10:34:00,Streaming,N,N,,,,,,,,0
+ID0407,Martha,03/14/2023,10:52:00,Streaming,Y,N,23,00:02:16,3,,,,,136
+ID0408,Dan,03/14/2023,11:02:00,Payment related,N,N,,,,,,,,0
+ID0409,Joe,03/14/2023,11:24:00,Admin Support,Y,Y,69,00:05:41,3,,,,,341
+ID0410,Stewart,03/14/2023,11:28:00,Contract related,Y,Y,15,00:06:10,4,,,,,370
+ID0411,Becky,03/14/2023,11:36:00,Technical Support,Y,Y,119,00:05:28,3,,,,,328
+ID0412,Becky,03/14/2023,12:04:00,Streaming,Y,Y,68,00:05:17,1,,,,,317
+ID0413,Diane,03/14/2023,13:26:00,Contract related,Y,Y,115,00:06:10,3,,,,,370
+ID0414,Joe,03/14/2023,13:36:00,Contract related,Y,Y,84,00:01:11,5,,,,,71
+ID0415,Dan,03/14/2023,14:02:00,Contract related,Y,N,59,00:01:17,4,,,,,77
+ID0416,Diane,03/14/2023,14:06:00,Technical Support,Y,N,112,00:03:34,4,,,,,214
+ID0417,Dan,03/14/2023,14:08:00,Contract related,N,N,,,,,,,,0
+ID0418,Dan,03/14/2023,14:10:00,Admin Support,Y,Y,39,00:04:51,3,,,,,291
+ID0419,Jim,03/14/2023,14:20:00,Streaming,Y,Y,31,00:06:35,5,,,,,395
+ID0420,Dan,03/14/2023,15:42:00,Streaming,Y,Y,112,00:03:41,2,,,,,221
+ID0421,Greg,03/14/2023,15:46:00,Streaming,Y,Y,49,00:02:25,4,,,,,145
+ID0422,Greg,03/14/2023,15:50:00,Technical Support,Y,Y,18,00:06:38,3,,,,,398
+ID0423,Stewart,03/14/2023,16:24:00,Technical Support,Y,Y,80,00:02:43,4,,,,,163
+ID0424,Dan,03/14/2023,16:38:00,Admin Support,Y,Y,57,00:02:33,3,,,,,153
+ID0425,Stewart,03/14/2023,17:27:00,Contract related,N,N,,,,,,,,0
+ID0426,Diane,03/14/2023,16:46:00,Contract related,Y,N,87,00:06:18,4,,,,,378
+ID0427,Diane,03/15/2023,09:10:00,Payment related,N,N,,,,,,,,0
+ID0428,Greg,03/15/2023,09:40:00,Streaming,Y,Y,81,00:05:56,3,,,,,356
+ID0429,Joe,03/15/2023,09:52:00,Technical Support,N,N,,,,,,,,0
+ID0430,Jim,03/15/2023,09:54:00,Streaming,Y,Y,47,00:02:11,5,,,,,131
+ID0431,Joe,03/15/2023,09:58:00,Streaming,Y,Y,57,00:06:15,4,,,,,375
+ID0432,Becky,03/15/2023,10:04:00,Payment related,N,N,,,,,,,,0
+ID0433,Joe,03/15/2023,10:28:00,Contract related,Y,Y,104,00:03:55,4,,,,,235
+ID0434,Becky,03/15/2023,11:42:00,Admin Support,Y,Y,16,00:05:46,3,,,,,346
+ID0435,Greg,03/15/2023,11:44:00,Streaming,Y,Y,37,00:04:13,4,,,,,253
+ID0436,Diane,03/15/2023,11:46:00,Admin Support,N,N,,,,,,,,0
+ID0437,Stewart,03/15/2023,11:56:00,Technical Support,Y,Y,61,00:02:06,4,,,,,126
+ID0438,Stewart,03/15/2023,12:14:00,Admin Support,Y,N,41,00:03:10,4,,,,,190
+ID0439,Diane,03/15/2023,12:16:00,Streaming,Y,Y,40,00:01:21,4,,,,,81
+ID0440,Diane,03/15/2023,12:18:00,Admin Support,Y,Y,55,00:05:21,2,,,,,321
+ID0441,Greg,03/15/2023,12:26:00,Admin Support,Y,Y,92,00:00:53,3,,,,,53
+ID0442,Dan,03/15/2023,15:22:00,Contract related,Y,Y,118,00:01:38,5,,,,,98
+ID0443,Dan,03/15/2023,15:26:00,Streaming,Y,Y,82,00:05:43,3,,,,,343
+ID0444,Dan,03/15/2023,15:30:00,Streaming,Y,Y,83,00:01:20,3,,,,,80
+ID0445,Jim,03/15/2023,15:36:00,Payment related,Y,Y,78,00:05:13,2,,,,,313
+ID0446,Diane,03/15/2023,15:42:00,Payment related,Y,N,111,00:05:14,5,,,,,314
+ID0447,Jim,03/15/2023,15:50:00,Contract related,Y,Y,107,00:05:22,4,,,,,322
+ID0448,Martha,03/15/2023,16:10:00,Streaming,Y,Y,108,00:04:03,2,,,,,243
+ID0449,Greg,03/15/2023,13:58:00,Payment related,Y,Y,97,00:02:39,5,,,,,159
+ID0450,Dan,03/15/2023,14:00:00,Streaming,Y,Y,31,00:06:20,5,,,,,380
+ID0451,Martha,03/15/2023,14:02:00,Payment related,Y,Y,20,00:01:49,4,,,,,109
+ID0452,Jim,03/15/2023,14:16:00,Admin Support,Y,Y,110,00:06:53,3,,,,,413
+ID0453,Dan,03/15/2023,14:52:00,Technical Support,Y,Y,86,00:05:02,5,,,,,302
+ID0454,Becky,03/15/2023,12:14:00,Streaming,Y,Y,77,00:02:11,4,,,,,131
+ID0455,Diane,03/15/2023,12:16:00,Streaming,Y,Y,119,00:06:47,3,,,,,407
+ID0456,Martha,03/15/2023,12:18:00,Admin Support,N,N,,,,,,,,0
+ID0457,Jim,03/15/2023,12:26:00,Technical Support,Y,Y,13,00:03:06,3,,,,,186
+ID0458,Stewart,03/15/2023,12:36:00,Payment related,Y,Y,106,00:02:27,5,,,,,147
+ID0459,Joe,03/15/2023,09:40:00,Payment related,Y,Y,35,00:05:25,3,,,,,325
+ID0460,Martha,03/15/2023,09:52:00,Contract related,Y,N,46,00:05:23,3,,,,,323
+ID0461,Stewart,03/15/2023,09:54:00,Admin Support,Y,N,24,00:06:15,3,,,,,375
+ID0462,Stewart,03/15/2023,09:58:00,Streaming,Y,Y,88,00:06:33,5,,,,,393
+ID0463,Joe,03/15/2023,11:50:00,Admin Support,Y,Y,81,00:02:42,3,,,,,162
+ID0464,Jim,03/15/2023,12:10:00,Payment related,Y,Y,96,00:04:33,3,,,,,273
+ID0465,Becky,03/15/2023,12:25:00,Admin Support,Y,Y,46,00:06:05,3,,,,,365
+ID0466,Dan,03/15/2023,12:30:00,Contract related,Y,Y,25,00:01:40,4,,,,,100
+ID0467,Stewart,03/15/2023,13:00:00,Admin Support,Y,Y,81,00:02:07,4,,,,,127
+ID0468,Dan,03/15/2023,15:10:00,Payment related,N,N,,,,,,,,0
+ID0469,Dan,03/15/2023,15:20:00,Technical Support,Y,Y,97,00:06:50,1,,,,,410
+ID0470,Martha,03/15/2023,15:30:00,Technical Support,Y,Y,116,00:03:16,5,,,,,196
+ID0471,Joe,03/15/2023,15:55:00,Payment related,N,N,,,,,,,,0
+ID0472,Dan,03/15/2023,16:00:00,Admin Support,N,N,,,,,,,,0
+ID0473,Becky,03/15/2023,09:25:00,Payment related,Y,Y,87,00:05:45,5,,,,,345
+ID0474,Dan,03/15/2023,09:30:00,Technical Support,Y,Y,43,00:00:35,4,,,,,35
+ID0475,Greg,03/15/2023,09:35:00,Contract related,Y,Y,102,00:04:48,3,,,,,288
+ID0476,Dan,03/15/2023,10:55:00,Payment related,Y,Y,95,00:05:49,5,,,,,349
+ID0477,Dan,03/15/2023,11:00:00,Technical Support,Y,Y,108,00:04:45,3,,,,,285
+ID0478,Dan,03/15/2023,15:05:00,Admin Support,Y,Y,80,00:02:11,4,,,,,131
+ID0479,Diane,03/15/2023,15:10:00,Payment related,Y,Y,61,00:00:36,5,,,,,36
+ID0480,Greg,03/15/2023,15:20:00,Contract related,Y,Y,18,00:05:05,5,,,,,305
+ID0481,Joe,03/15/2023,15:30:00,Payment related,N,N,,,,,,,,0
+ID0482,Becky,03/15/2023,09:25:00,Admin Support,Y,N,10,00:00:54,4,,,,,54
+ID0483,Diane,03/15/2023,09:30:00,Payment related,Y,Y,92,00:02:25,3,,,,,145
+ID0484,Jim,03/15/2023,09:35:00,Technical Support,N,N,,,,,,,,0
+ID0485,Becky,03/15/2023,10:55:00,Contract related,Y,Y,120,00:04:28,1,,,,,268
+ID0486,Dan,03/15/2023,11:00:00,Technical Support,Y,Y,63,00:04:59,3,,,,,299
+ID0487,Becky,03/15/2023,13:50:00,Streaming,N,N,,,,,,,,0
+ID0488,Joe,03/15/2023,14:05:00,Streaming,Y,Y,101,00:05:30,3,,,,,330
+ID0489,Joe,03/15/2023,14:10:00,Payment related,Y,Y,105,00:01:20,1,,,,,80
+ID0490,Joe,03/15/2023,14:15:00,Contract related,Y,Y,21,00:01:38,4,,,,,98
+ID0491,Joe,03/15/2023,14:20:00,Payment related,Y,Y,34,00:05:10,4,,,,,310
+ID0492,Stewart,03/15/2023,14:40:00,Technical Support,Y,Y,78,00:03:25,1,,,,,205
+ID0493,Diane,03/15/2023,16:30:00,Streaming,Y,Y,44,00:02:54,3,,,,,174
+ID0494,Joe,03/15/2023,16:45:00,Admin Support,Y,Y,98,00:01:43,1,,,,,103
+ID0495,Martha,03/15/2023,17:00:00,Payment related,Y,Y,23,00:03:23,1,,,,,203
+ID0496,Stewart,03/15/2023,12:10:00,Admin Support,Y,Y,28,00:06:20,3,,,,,380
+ID0497,Joe,03/15/2023,12:25:00,Technical Support,N,N,,,,,,,,0
+ID0498,Martha,03/15/2023,12:30:00,Admin Support,Y,Y,43,00:01:03,5,,,,,63
+ID0499,Stewart,03/15/2023,13:00:00,Streaming,N,N,,,,,,,,0
+ID0500,Martha,03/15/2023,13:25:00,Contract related,N,N,,,,,,,,0
+ID0501,Diane,03/15/2023,13:50:00,Payment related,Y,Y,119,00:00:50,4,,,,,50
+ID0502,Dan,03/15/2023,14:05:00,Payment related,Y,Y,32,00:02:54,5,,,,,174
+ID0503,Greg,03/15/2023,11:40:00,Streaming,Y,N,50,00:04:17,3,,,,,257
+ID0504,Jim,03/15/2023,11:50:00,Admin Support,N,N,,,,,,,,0
+ID0505,Joe,03/15/2023,12:00:00,Payment related,Y,Y,35,00:04:46,4,,,,,286
+ID0506,Jim,03/15/2023,12:10:00,Contract related,Y,Y,27,00:02:43,3,,,,,163
+ID0507,Stewart,03/15/2023,12:20:00,Streaming,Y,Y,121,00:03:20,4,,,,,200
+ID0508,Becky,03/15/2023,12:40:00,Streaming,Y,Y,42,00:06:58,2,,,,,418
+ID0509,Greg,03/16/2023,13:00:00,Technical Support,N,N,,,,,,,,0
+ID0510,Dan,03/16/2023,09:00:00,Technical Support,N,N,,,,,,,,0
+ID0511,Greg,03/16/2023,09:40:00,Payment related,Y,Y,107,00:01:05,5,,,,,65
+ID0512,Martha,03/16/2023,10:00:00,Streaming,Y,Y,116,00:03:31,4,,,,,211
+ID0513,Dan,03/16/2023,10:20:00,Technical Support,Y,N,60,00:02:06,3,,,,,126
+ID0514,Jim,03/16/2023,16:20:00,Payment related,Y,Y,116,00:04:38,4,,,,,278
+ID0515,Stewart,03/16/2023,16:30:00,Payment related,Y,Y,19,00:06:11,5,,,,,371
+ID0516,Martha,03/16/2023,16:40:00,Contract related,Y,Y,75,00:05:50,3,,,,,350
+ID0517,Becky,03/16/2023,16:50:00,Admin Support,Y,Y,23,00:00:48,3,,,,,48
+ID0518,Diane,03/16/2023,09:26:00,Technical Support,Y,Y,69,00:03:53,3,,,,,233
+ID0519,Jim,03/16/2023,10:14:00,Streaming,Y,Y,64,00:04:23,5,,,,,263
+ID0520,Martha,03/16/2023,10:16:00,Streaming,Y,Y,117,00:03:23,3,,,,,203
+ID0521,Jim,03/16/2023,10:24:00,Streaming,Y,Y,12,00:06:34,4,,,,,394
+ID0522,Diane,03/16/2023,12:14:00,Admin Support,Y,Y,102,00:02:38,4,,,,,158
+ID0523,Dan,03/16/2023,12:16:00,Technical Support,Y,Y,46,00:06:32,4,,,,,392
+ID0524,Martha,03/16/2023,12:24:00,Streaming,Y,N,47,00:01:27,4,,,,,87
+ID0525,Dan,03/16/2023,12:28:00,Streaming,Y,Y,98,00:02:23,4,,,,,143
+ID0526,Jim,03/16/2023,12:32:00,Contract related,Y,Y,84,00:04:17,4,,,,,257
+ID0527,Greg,03/16/2023,12:36:00,Streaming,Y,Y,12,00:02:13,3,,,,,133
+ID0528,Greg,03/16/2023,12:40:00,Payment related,Y,Y,88,00:03:26,4,,,,,206
+ID0529,Stewart,03/16/2023,12:44:00,Contract related,Y,Y,97,00:05:53,1,,,,,353
+ID0530,Joe,03/16/2023,12:54:00,Admin Support,Y,Y,51,00:05:56,3,,,,,356
+ID0531,Becky,03/16/2023,14:16:00,Admin Support,N,N,,,,,,,,0
+ID0532,Dan,03/16/2023,14:30:00,Streaming,Y,Y,106,00:02:37,4,,,,,157
+ID0533,Diane,03/16/2023,14:36:00,Admin Support,Y,Y,34,00:03:52,4,,,,,232
+ID0534,Stewart,03/16/2023,14:40:00,Streaming,N,N,,,,,,,,0
+ID0535,Dan,03/16/2023,14:46:00,Technical Support,Y,Y,51,00:05:33,3,,,,,333
+ID0536,Greg,03/16/2023,14:52:00,Technical Support,Y,Y,74,00:04:54,4,,,,,294
+ID0537,Greg,03/16/2023,14:54:00,Contract related,Y,Y,29,00:01:16,3,,,,,76
+ID0538,Martha,03/16/2023,16:12:00,Admin Support,Y,Y,123,00:06:15,3,,,,,375
+ID0539,Becky,03/16/2023,16:26:00,Contract related,Y,Y,100,00:00:41,4,,,,,41
+ID0540,Dan,03/16/2023,16:30:00,Streaming,Y,Y,43,00:06:53,3,,,,,413
+ID0541,Becky,03/16/2023,16:40:00,Technical Support,Y,Y,24,00:04:29,4,,,,,269
+ID0542,Jim,03/16/2023,16:48:00,Streaming,Y,Y,78,00:06:14,4,,,,,374
+ID0543,Joe,03/16/2023,09:00:00,Payment related,Y,Y,28,00:06:07,5,,,,,367
+ID0544,Joe,03/16/2023,09:26:00,Admin Support,Y,Y,36,00:01:28,3,,,,,88
+ID0545,Joe,03/16/2023,10:14:00,Payment related,N,N,,,,,,,,0
+ID0546,Jim,03/16/2023,10:15:00,Payment related,Y,Y,10,00:04:32,2,,,,,272
+ID0547,Dan,03/16/2023,16:12:00,Streaming,Y,Y,43,00:06:42,3,,,,,402
+ID0548,Stewart,03/16/2023,16:26:00,Technical Support,Y,Y,19,00:00:38,3,,,,,38
+ID0549,Diane,03/16/2023,16:30:00,Admin Support,Y,Y,74,00:06:34,3,,,,,394
+ID0550,Jim,03/16/2023,16:40:00,Streaming,Y,Y,71,00:04:05,1,,,,,245
+ID0551,Joe,03/16/2023,16:48:00,Admin Support,Y,Y,117,00:06:16,5,,,,,376
+ID0552,Joe,03/16/2023,16:58:00,Contract related,Y,Y,61,00:05:01,3,,,,,301
+ID0553,Joe,03/16/2023,17:25:00,Contract related,Y,Y,118,00:03:20,3,,,,,200
+ID0554,Martha,03/17/2023,09:00:00,Admin Support,Y,Y,87,00:04:18,4,,,,,258
+ID0555,Diane,03/17/2023,09:26:00,Payment related,Y,Y,48,00:01:06,4,,,,,66
+ID0556,Joe,03/17/2023,10:14:00,Contract related,Y,Y,112,00:02:14,1,,,,,134
+ID0557,Stewart,03/17/2023,10:16:00,Contract related,Y,Y,99,00:02:44,5,,,,,164
+ID0558,Becky,03/17/2023,10:24:00,Technical Support,Y,Y,103,00:02:56,4,,,,,176
+ID0559,Joe,03/17/2023,10:34:00,Payment related,Y,Y,102,00:00:38,5,,,,,38
+ID0560,Joe,03/17/2023,10:38:00,Payment related,Y,Y,74,00:06:56,5,,,,,416
+ID0561,Greg,03/17/2023,11:22:00,Payment related,Y,Y,28,00:01:29,1,,,,,89
+ID0562,Joe,03/17/2023,11:26:00,Contract related,Y,Y,64,00:02:33,4,,,,,153
+ID0563,Diane,03/17/2023,11:42:00,Contract related,N,N,,,,,,,,0
+ID0564,Becky,03/17/2023,12:04:00,Payment related,Y,Y,81,00:06:36,4,,,,,396
+ID0565,Becky,03/17/2023,12:14:00,Streaming,Y,Y,121,00:01:04,3,,,,,64
+ID0566,Joe,03/17/2023,12:16:00,Technical Support,Y,Y,117,00:02:51,4,,,,,171
+ID0567,Diane,03/17/2023,14:12:00,Payment related,Y,Y,55,00:04:14,4,,,,,254
+ID0568,Stewart,03/17/2023,14:16:00,Technical Support,N,N,,,,,,,,0
+ID0569,Becky,03/17/2023,14:30:00,Streaming,Y,Y,79,00:02:30,3,,,,,150
+ID0570,Martha,03/17/2023,14:36:00,Technical Support,Y,Y,120,00:02:09,1,,,,,129
+ID0571,Stewart,03/17/2023,14:40:00,Contract related,Y,Y,50,00:02:41,2,,,,,161
+ID0572,Martha,03/17/2023,14:46:00,Admin Support,Y,N,15,00:03:03,1,,,,,183
+ID0573,Dan,03/17/2023,14:52:00,Streaming,Y,Y,10,00:04:58,3,,,,,298
+ID0574,Greg,03/17/2023,14:54:00,Technical Support,Y,Y,110,00:04:14,3,,,,,254
+ID0575,Greg,03/17/2023,15:00:00,Payment related,Y,Y,69,00:00:47,3,,,,,47
+ID0576,Jim,03/17/2023,15:02:00,Contract related,Y,N,122,00:02:48,1,,,,,168
+ID0577,Diane,03/17/2023,10:15:00,Contract related,Y,Y,47,00:00:58,3,,,,,58
+ID0578,Greg,03/17/2023,10:30:00,Technical Support,Y,N,124,00:06:46,5,,,,,406
+ID0579,Martha,03/17/2023,10:45:00,Streaming,Y,Y,92,00:02:01,3,,,,,121
+ID0580,Becky,03/17/2023,11:15:00,Payment related,Y,Y,110,00:05:32,2,,,,,332
+ID0581,Stewart,03/17/2023,11:30:00,Streaming,Y,Y,84,00:02:25,4,,,,,145
+ID0582,Stewart,03/17/2023,11:45:00,Admin Support,N,N,,,,,,,,0
+ID0583,Diane,03/17/2023,12:00:00,Admin Support,Y,Y,81,00:04:21,5,,,,,261
+ID0584,Greg,03/17/2023,12:15:00,Payment related,Y,Y,116,00:02:09,4,,,,,129
+ID0585,Diane,03/17/2023,16:15:00,Payment related,N,N,,,,,,,,0
+ID0586,Joe,03/17/2023,16:30:00,Streaming,Y,Y,63,00:04:09,3,,,,,249
+ID0587,Dan,03/17/2023,16:45:00,Streaming,N,N,,,,,,,,0
+ID0588,Joe,03/17/2023,17:00:00,Streaming,Y,Y,30,00:04:31,3,,,,,271
+ID0589,Diane,03/17/2023,17:25:00,Admin Support,Y,Y,22,00:05:42,3,,,,,342
+ID0590,Stewart,03/17/2023,10:00:00,Technical Support,Y,Y,31,00:05:20,3,,,,,320
+ID0591,Diane,03/17/2023,10:30:00,Payment related,Y,Y,47,00:02:32,3,,,,,152
+ID0592,Dan,03/17/2023,10:50:00,Technical Support,Y,Y,88,00:04:34,3,,,,,274
+ID0593,Martha,03/17/2023,11:00:00,Streaming,Y,Y,106,00:03:39,4,,,,,219
+ID0594,Diane,03/17/2023,11:20:00,Payment related,Y,Y,70,00:01:27,5,,,,,87
+ID0595,Martha,03/17/2023,11:40:00,Payment related,Y,Y,77,00:05:37,3,,,,,337
+ID0596,Joe,03/17/2023,12:00:00,Streaming,Y,Y,82,00:06:41,3,,,,,401
+ID0597,Greg,03/17/2023,15:00:00,Contract related,Y,Y,84,00:04:45,3,,,,,285
+ID0598,Martha,03/17/2023,15:10:00,Technical Support,Y,Y,50,00:06:06,4,,,,,366
+ID0599,Martha,03/17/2023,15:50:00,Admin Support,N,N,,,,,,,,0
+ID0600,Becky,03/17/2023,16:10:00,Contract related,Y,Y,73,00:00:45,3,,,,,45
+ID0601,Greg,03/17/2023,16:20:00,Contract related,Y,Y,79,00:05:24,3,,,,,324
+ID0602,Dan,03/17/2023,16:40:00,Contract related,Y,Y,124,00:03:58,5,,,,,238
+ID0603,Stewart,03/17/2023,16:50:00,Admin Support,N,N,,,,,,,,0
+ID0604,Becky,03/17/2023,09:00:00,Technical Support,Y,N,75,00:03:33,4,,,,,213
+ID0605,Becky,03/17/2023,09:10:00,Technical Support,Y,Y,34,00:04:31,3,,,,,271
+ID0606,Stewart,03/17/2023,09:20:00,Payment related,N,N,,,,,,,,0
+ID0607,Stewart,03/17/2023,09:30:00,Streaming,Y,Y,116,00:03:56,3,,,,,236
+ID0608,Dan,03/17/2023,09:40:00,Payment related,Y,Y,20,00:00:33,3,,,,,33
+ID0609,Jim,03/17/2023,09:50:00,Streaming,Y,Y,105,00:06:38,1,,,,,398
+ID0610,Diane,03/17/2023,09:15:00,Payment related,Y,Y,25,00:00:53,3,,,,,53
+ID0611,Diane,03/17/2023,09:30:00,Payment related,Y,Y,16,00:06:22,4,,,,,382
+ID0612,Martha,03/17/2023,10:00:00,Contract related,Y,Y,64,00:02:40,4,,,,,160
+ID0613,Stewart,03/17/2023,10:15:00,Admin Support,Y,Y,82,00:06:51,3,,,,,411
+ID0614,Dan,03/17/2023,10:45:00,Streaming,Y,Y,13,00:02:09,5,,,,,129
+ID0615,Jim,03/17/2023,11:00:00,Contract related,Y,Y,15,00:00:45,5,,,,,45
+ID0616,Greg,03/17/2023,11:30:00,Contract related,Y,Y,42,00:06:08,2,,,,,368
+ID0617,Jim,03/17/2023,15:00:00,Payment related,N,N,,,,,,,,0
+ID0618,Martha,03/17/2023,15:15:00,Payment related,Y,Y,32,00:05:41,3,,,,,341
+ID0619,Dan,03/17/2023,15:30:00,Payment related,Y,Y,75,00:04:10,3,,,,,250
+ID0620,Stewart,03/17/2023,16:00:00,Contract related,Y,N,123,00:02:50,3,,,,,170
+ID0621,Stewart,03/17/2023,16:15:00,Streaming,Y,Y,22,00:05:27,5,,,,,327
+ID0622,Greg,03/17/2023,15:00:00,Technical Support,Y,Y,21,00:01:58,2,,,,,118
+ID0623,Greg,03/17/2023,15:15:00,Streaming,Y,Y,15,00:06:10,4,,,,,370
+ID0624,Diane,03/17/2023,15:30:00,Streaming,Y,Y,76,00:03:55,4,,,,,235
+ID0625,Joe,03/20/2023,16:00:00,Admin Support,Y,Y,92,00:05:19,3,,,,,319
+ID0626,Greg,03/20/2023,16:15:00,Technical Support,N,N,,,,,,,,0
+ID0627,Martha,03/20/2023,09:40:00,Technical Support,N,N,,,,,,,,0
+ID0628,Becky,03/20/2023,10:00:00,Payment related,Y,N,62,00:03:59,4,,,,,239
+ID0629,Joe,03/20/2023,10:20:00,Admin Support,Y,Y,33,00:04:58,3,,,,,298
+ID0630,Stewart,03/20/2023,10:40:00,Admin Support,Y,Y,122,00:01:59,1,,,,,119
+ID0631,Stewart,03/20/2023,11:00:00,Streaming,Y,N,47,00:04:35,1,,,,,275
+ID0632,Diane,03/20/2023,11:20:00,Admin Support,N,N,,,,,,,,0
+ID0633,Martha,03/20/2023,11:40:00,Technical Support,N,N,,,,,,,,0
+ID0634,Joe,03/20/2023,14:20:00,Contract related,N,N,,,,,,,,0
+ID0635,Stewart,03/20/2023,15:00:00,Streaming,Y,Y,44,00:00:39,4,,,,,39
+ID0636,Martha,03/20/2023,16:00:00,Contract related,Y,Y,48,00:04:41,3,,,,,281
+ID0637,Martha,03/20/2023,16:40:00,Admin Support,Y,Y,60,00:00:59,3,,,,,59
+ID0638,Diane,03/20/2023,17:00:00,Streaming,N,N,,,,,,,,0
+ID0639,Jim,03/20/2023,12:45:00,Technical Support,Y,Y,120,00:03:21,2,,,,,201
+ID0640,Stewart,03/20/2023,12:50:00,Admin Support,Y,Y,61,00:04:26,2,,,,,266
+ID0641,Greg,03/20/2023,13:20:00,Technical Support,Y,Y,103,00:06:25,4,,,,,385
+ID0642,Becky,03/20/2023,15:45:00,Contract related,N,N,,,,,,,,0
+ID0643,Jim,03/20/2023,15:55:00,Payment related,Y,Y,32,00:03:01,2,,,,,181
+ID0644,Joe,03/20/2023,16:05:00,Admin Support,N,N,,,,,,,,0
+ID0645,Jim,03/20/2023,16:35:00,Technical Support,Y,Y,53,00:04:37,1,,,,,277
+ID0646,Diane,03/20/2023,16:45:00,Streaming,Y,Y,40,00:02:56,5,,,,,176
+ID0647,Stewart,03/20/2023,17:10:00,Contract related,Y,N,58,00:03:14,3,,,,,194
+ID0648,Stewart,03/20/2023,12:00:00,Technical Support,Y,Y,92,00:02:27,2,,,,,147
+ID0649,Diane,03/20/2023,12:10:00,Payment related,N,N,,,,,,,,0
+ID0650,Dan,03/20/2023,12:30:00,Streaming,Y,Y,124,00:00:49,5,,,,,49
+ID0651,Jim,03/20/2023,12:50:00,Admin Support,Y,Y,59,00:04:30,3,,,,,270
+ID0652,Greg,03/20/2023,13:00:00,Streaming,Y,Y,44,00:05:02,1,,,,,302
+ID0653,Jim,03/20/2023,09:10:00,Admin Support,Y,Y,42,00:03:38,2,,,,,218
+ID0654,Stewart,03/20/2023,09:30:00,Payment related,Y,Y,21,00:04:46,5,,,,,286
+ID0655,Stewart,03/20/2023,10:20:00,Contract related,Y,Y,69,00:00:32,4,,,,,32
+ID0656,Stewart,03/20/2023,14:40:00,Payment related,Y,Y,46,00:00:53,1,,,,,53
+ID0657,Martha,03/20/2023,15:10:00,Payment related,Y,Y,24,00:06:01,5,,,,,361
+ID0658,Stewart,03/20/2023,15:30:00,Streaming,Y,Y,101,00:04:45,2,,,,,285
+ID0659,Becky,03/20/2023,17:10:00,Payment related,Y,Y,121,00:01:21,5,,,,,81
+ID0660,Stewart,03/20/2023,09:22:00,Admin Support,Y,Y,61,00:01:11,3,,,,,71
+ID0661,Becky,03/20/2023,09:26:00,Contract related,Y,Y,45,00:01:20,4,,,,,80
+ID0662,Becky,03/20/2023,09:48:00,Payment related,Y,Y,40,00:02:01,5,,,,,121
+ID0663,Dan,03/20/2023,09:50:00,Technical Support,Y,Y,94,00:00:56,4,,,,,56
+ID0664,Greg,03/20/2023,09:54:00,Streaming,Y,Y,85,00:05:14,5,,,,,314
+ID0665,Jim,03/20/2023,10:16:00,Payment related,Y,Y,22,00:04:38,3,,,,,278
+ID0666,Becky,03/20/2023,10:48:00,Contract related,Y,Y,119,00:06:51,5,,,,,411
+ID0667,Becky,03/20/2023,11:00:00,Payment related,Y,Y,13,00:02:21,4,,,,,141
+ID0668,Martha,03/20/2023,11:02:00,Contract related,Y,Y,60,00:04:20,4,,,,,260
+ID0669,Diane,03/20/2023,11:04:00,Admin Support,N,N,,,,,,,,0
+ID0670,Jim,03/20/2023,11:28:00,Payment related,Y,Y,29,00:06:03,1,,,,,363
+ID0671,Diane,03/20/2023,11:38:00,Payment related,Y,N,41,00:05:47,5,,,,,347
+ID0672,Martha,03/20/2023,12:54:00,Contract related,Y,Y,87,00:05:40,5,,,,,340
+ID0673,Jim,03/20/2023,13:18:00,Contract related,Y,Y,77,00:04:28,5,,,,,268
+ID0674,Jim,03/20/2023,13:34:00,Payment related,N,N,,,,,,,,0
+ID0675,Dan,03/20/2023,13:46:00,Admin Support,Y,Y,30,00:02:46,4,,,,,166
+ID0676,Stewart,03/20/2023,13:50:00,Payment related,N,N,,,,,,,,0
+ID0677,Jim,03/20/2023,13:52:00,Payment related,Y,Y,81,00:05:30,3,,,,,330
+ID0678,Stewart,03/20/2023,13:54:00,Contract related,Y,Y,76,00:02:22,4,,,,,142
+ID0679,Diane,03/20/2023,14:06:00,Contract related,N,N,,,,,,,,0
+ID0680,Greg,03/20/2023,14:46:00,Contract related,Y,Y,79,00:03:25,4,,,,,205
+ID0681,Joe,03/20/2023,14:48:00,Admin Support,Y,Y,114,00:05:30,3,,,,,330
+ID0682,Greg,03/20/2023,15:24:00,Contract related,Y,Y,15,00:07:00,2,,,,,420
+ID0683,Becky,03/20/2023,15:48:00,Streaming,Y,Y,43,00:03:20,4,,,,,200
+ID0684,Stewart,03/20/2023,15:54:00,Technical Support,Y,Y,26,00:06:28,1,,,,,388
+ID0685,Greg,03/20/2023,16:12:00,Technical Support,Y,Y,57,00:03:32,2,,,,,212
+ID0686,Stewart,03/20/2023,16:30:00,Contract related,Y,Y,86,00:02:34,3,,,,,154
+ID0687,Diane,03/20/2023,17:12:00,Payment related,Y,Y,110,00:04:46,3,,,,,286
+ID0688,Becky,03/20/2023,17:14:00,Contract related,Y,Y,43,00:04:50,2,,,,,290
+ID0689,Martha,03/20/2023,17:22:00,Technical Support,N,N,,,,,,,,0
+ID0690,Martha,03/20/2023,09:54:00,Admin Support,N,N,,,,,,,,0
+ID0691,Joe,03/20/2023,10:18:00,Technical Support,Y,Y,105,00:03:01,2,,,,,181
+ID0692,Diane,03/20/2023,10:30:00,Technical Support,N,N,,,,,,,,0
+ID0693,Greg,03/20/2023,10:34:00,Admin Support,Y,Y,79,00:00:48,4,,,,,48
+ID0694,Jim,03/20/2023,09:13:00,Payment related,Y,N,42,00:03:28,3,,,,,208
+ID0695,Jim,03/20/2023,09:14:00,Contract related,Y,N,100,00:00:57,4,,,,,57
+ID0696,Greg,03/20/2023,09:22:00,Streaming,Y,Y,107,00:06:28,4,,,,,388
+ID0697,Martha,03/20/2023,09:36:00,Payment related,Y,Y,96,00:03:47,5,,,,,227
+ID0698,Greg,03/20/2023,09:49:00,Streaming,Y,N,116,00:04:15,5,,,,,255
+ID0699,Martha,03/20/2023,10:08:00,Technical Support,Y,Y,54,00:02:54,3,,,,,174
+ID0700,Diane,03/20/2023,12:00:00,Streaming,Y,Y,24,00:06:25,4,,,,,385
+ID0701,Dan,03/20/2023,12:01:00,Contract related,Y,Y,52,00:02:56,5,,,,,176
+ID0702,Dan,03/20/2023,12:10:00,Contract related,Y,Y,77,00:00:51,3,,,,,51
+ID0703,Diane,03/20/2023,12:21:00,Admin Support,Y,Y,91,00:01:40,3,,,,,100
+ID0704,Dan,03/20/2023,12:59:00,Streaming,Y,N,104,00:01:44,3,,,,,104
+ID0705,Joe,03/20/2023,13:12:00,Technical Support,Y,Y,111,00:02:36,3,,,,,156
+ID0706,Becky,03/20/2023,13:57:00,Technical Support,N,N,,,,,,,,0
+ID0707,Jim,03/20/2023,13:58:00,Payment related,Y,Y,55,00:05:08,4,,,,,308
+ID0708,Stewart,03/20/2023,13:59:00,Admin Support,N,N,,,,,,,,0
+ID0709,Joe,03/20/2023,14:03:00,Contract related,Y,Y,124,00:05:26,4,,,,,326
+ID0710,Martha,03/20/2023,14:17:00,Payment related,Y,Y,68,00:04:37,3,,,,,277
+ID0711,Dan,03/21/2023,14:23:00,Technical Support,Y,N,40,00:04:33,3,,,,,273
+ID0712,Stewart,03/21/2023,15:32:00,Payment related,Y,Y,119,00:02:35,4,,,,,155
+ID0713,Dan,03/21/2023,15:49:00,Payment related,Y,Y,42,00:00:55,1,,,,,55
+ID0714,Joe,03/21/2023,16:41:00,Admin Support,Y,Y,30,00:03:55,4,,,,,235
+ID0715,Jim,03/21/2023,17:14:00,Admin Support,Y,Y,79,00:04:21,4,,,,,261
+ID0716,Becky,03/21/2023,17:21:00,Contract related,Y,Y,44,00:06:56,1,,,,,416
+ID0717,Jim,03/21/2023,09:06:00,Streaming,Y,Y,71,00:02:00,3,,,,,120
+ID0718,Greg,03/21/2023,09:13:00,Streaming,N,N,,,,,,,,0
+ID0719,Joe,03/21/2023,09:14:00,Admin Support,Y,Y,21,00:06:25,5,,,,,385
+ID0720,Jim,03/21/2023,09:22:00,Technical Support,Y,Y,122,00:04:48,4,,,,,288
+ID0721,Becky,03/21/2023,09:36:00,Technical Support,N,N,,,,,,,,0
+ID0722,Becky,03/21/2023,09:49:00,Admin Support,Y,Y,62,00:02:25,3,,,,,145
+ID0723,Stewart,03/21/2023,10:38:00,Contract related,Y,N,37,00:02:42,5,,,,,162
+ID0724,Diane,03/21/2023,10:49:00,Contract related,Y,Y,112,00:06:57,2,,,,,417
+ID0725,Jim,03/21/2023,11:03:00,Contract related,Y,Y,40,00:03:24,2,,,,,204
+ID0726,Joe,03/21/2023,11:14:00,Streaming,Y,N,50,00:01:53,5,,,,,113
+ID0727,Dan,03/21/2023,11:15:00,Streaming,Y,Y,88,00:04:10,4,,,,,250
+ID0728,Dan,03/21/2023,11:17:00,Admin Support,Y,Y,97,00:00:52,3,,,,,52
+ID0729,Diane,03/21/2023,13:33:00,Payment related,N,N,,,,,,,,0
+ID0730,Becky,03/21/2023,13:40:00,Streaming,Y,Y,110,00:04:43,4,,,,,283
+ID0731,Martha,03/21/2023,13:41:00,Streaming,N,N,,,,,,,,0
+ID0732,Jim,03/21/2023,13:44:00,Technical Support,Y,Y,104,00:03:24,5,,,,,204
+ID0733,Stewart,03/21/2023,13:57:00,Contract related,Y,N,79,00:04:58,3,,,,,298
+ID0734,Becky,03/21/2023,13:58:00,Payment related,Y,Y,70,00:01:31,3,,,,,91
+ID0735,Greg,03/21/2023,13:59:00,Admin Support,N,N,,,,,,,,0
+ID0736,Joe,03/21/2023,14:03:00,Streaming,Y,Y,70,00:05:39,1,,,,,339
+ID0737,Martha,03/21/2023,14:17:00,Contract related,Y,Y,33,00:00:52,3,,,,,52
+ID0738,Joe,03/21/2023,14:23:00,Payment related,Y,Y,124,00:00:54,4,,,,,54
+ID0739,Diane,03/21/2023,14:46:00,Payment related,Y,Y,77,00:02:04,3,,,,,124
+ID0740,Dan,03/21/2023,14:56:00,Streaming,Y,Y,33,00:06:21,3,,,,,381
+ID0741,Jim,03/21/2023,15:31:00,Contract related,Y,Y,96,00:01:07,5,,,,,67
+ID0742,Becky,03/21/2023,15:32:00,Streaming,N,N,,,,,,,,0
+ID0743,Joe,03/21/2023,15:49:00,Payment related,Y,Y,69,00:03:48,5,,,,,228
+ID0744,Dan,03/21/2023,16:41:00,Admin Support,Y,Y,58,00:06:32,4,,,,,392
+ID0745,Martha,03/21/2023,17:14:00,Admin Support,Y,N,112,00:00:40,3,,,,,40
+ID0746,Jim,03/21/2023,09:45:00,Technical Support,Y,Y,61,00:04:23,3,,,,,263
+ID0747,Dan,03/21/2023,09:58:00,Admin Support,Y,Y,89,00:03:12,3,,,,,192
+ID0748,Becky,03/21/2023,10:08:00,Payment related,Y,Y,84,00:03:12,5,,,,,192
+ID0749,Diane,03/21/2023,10:13:00,Technical Support,Y,Y,53,00:03:36,3,,,,,216
+ID0750,Becky,03/21/2023,10:18:00,Streaming,Y,Y,73,00:01:34,3,,,,,94
+ID0751,Stewart,03/21/2023,10:20:00,Contract related,Y,Y,12,00:02:11,2,,,,,131
+ID0752,Martha,03/21/2023,10:23:00,Admin Support,Y,Y,90,00:06:32,4,,,,,392
+ID0753,Stewart,03/21/2023,12:12:00,Technical Support,N,N,,,,,,,,0
+ID0754,Dan,03/21/2023,12:13:00,Technical Support,Y,Y,23,00:04:13,5,,,,,253
+ID0755,Greg,03/21/2023,12:15:00,Admin Support,Y,Y,98,00:05:08,5,,,,,308
+ID0756,Diane,03/21/2023,12:27:00,Contract related,Y,Y,28,00:01:03,2,,,,,63
+ID0757,Diane,03/21/2023,12:31:00,Technical Support,Y,Y,123,00:04:28,3,,,,,268
+ID0758,Becky,03/21/2023,13:02:00,Contract related,Y,Y,82,00:02:30,5,,,,,150
+ID0759,Martha,03/21/2023,13:08:00,Technical Support,Y,Y,57,00:04:48,4,,,,,288
+ID0760,Stewart,03/21/2023,13:19:00,Streaming,Y,Y,14,00:01:11,5,,,,,71
+ID0761,Joe,03/21/2023,13:35:00,Technical Support,Y,Y,114,00:00:37,4,,,,,37
+ID0762,Jim,03/21/2023,13:41:00,Payment related,Y,Y,53,00:04:21,5,,,,,261
+ID0763,Jim,03/21/2023,13:42:00,Technical Support,N,N,,,,,,,,0
+ID0764,Dan,03/21/2023,13:51:00,Technical Support,Y,Y,25,00:04:33,4,,,,,273
+ID0765,Greg,03/21/2023,13:59:00,Admin Support,Y,Y,86,00:03:20,2,,,,,200
+ID0766,Jim,03/21/2023,14:03:00,Payment related,Y,Y,51,00:02:08,4,,,,,128
+ID0767,Stewart,03/21/2023,14:05:00,Technical Support,Y,Y,31,00:00:56,4,,,,,56
+ID0768,Dan,03/21/2023,14:08:00,Streaming,N,N,,,,,,,,0
+ID0769,Martha,03/21/2023,15:52:00,Payment related,Y,Y,124,00:05:04,4,,,,,304
+ID0770,Jim,03/21/2023,16:02:00,Streaming,Y,Y,116,00:06:48,2,,,,,408
+ID0771,Becky,03/21/2023,16:05:00,Contract related,Y,Y,41,00:04:03,2,,,,,243
+ID0772,Greg,03/21/2023,16:15:00,Contract related,Y,Y,53,00:04:38,2,,,,,278
+ID0773,Martha,03/21/2023,16:21:00,Technical Support,Y,Y,85,00:02:04,4,,,,,124
+ID0774,Joe,03/21/2023,16:32:00,Streaming,Y,Y,18,00:04:38,5,,,,,278
+ID0775,Stewart,03/21/2023,16:45:00,Payment related,Y,Y,17,00:04:13,4,,,,,253
+ID0776,Joe,03/21/2023,16:54:00,Technical Support,Y,Y,102,00:02:58,4,,,,,178
+ID0777,Jim,03/21/2023,16:59:00,Technical Support,Y,Y,26,00:06:41,1,,,,,401
+ID0778,Joe,03/21/2023,17:00:00,Payment related,Y,Y,107,00:06:22,3,,,,,382
+ID0779,Greg,03/21/2023,17:01:00,Technical Support,N,N,,,,,,,,0
+ID0780,Greg,03/21/2023,09:40:00,Streaming,Y,Y,35,00:04:24,5,,,,,264
+ID0781,Joe,03/21/2023,09:45:00,Technical Support,Y,Y,100,00:05:24,2,,,,,324
+ID0782,Diane,03/21/2023,09:58:00,Admin Support,Y,Y,12,00:06:19,4,,,,,379
+ID0783,Jim,03/21/2023,10:08:00,Payment related,Y,Y,43,00:03:54,4,,,,,234
+ID0784,Becky,03/21/2023,10:13:00,Payment related,Y,Y,68,00:01:49,4,,,,,109
+ID0785,Joe,03/21/2023,10:18:00,Streaming,Y,Y,81,00:01:55,3,,,,,115
+ID0786,Martha,03/22/2023,10:20:00,Contract related,Y,N,49,00:06:21,5,,,,,381
+ID0787,Dan,03/22/2023,09:08:00,Technical Support,Y,Y,101,00:06:10,3,,,,,370
+ID0788,Joe,03/22/2023,09:31:00,Contract related,Y,Y,72,00:05:58,3,,,,,358
+ID0789,Martha,03/22/2023,09:33:00,Technical Support,Y,Y,18,00:01:50,3,,,,,110
+ID0790,Diane,03/22/2023,14:14:00,Contract related,Y,Y,86,00:04:33,5,,,,,273
+ID0791,Dan,03/22/2023,14:31:00,Admin Support,Y,Y,109,00:00:38,4,,,,,38
+ID0792,Martha,03/22/2023,14:38:00,Technical Support,N,N,,,,,,,,0
+ID0793,Martha,03/22/2023,14:48:00,Admin Support,Y,Y,32,00:04:12,2,,,,,252
+ID0794,Dan,03/22/2023,14:57:00,Contract related,Y,Y,68,00:05:15,3,,,,,315
+ID0795,Joe,03/22/2023,15:00:00,Technical Support,Y,Y,10,00:06:57,4,,,,,417
+ID0796,Jim,03/22/2023,15:02:00,Payment related,Y,Y,76,00:04:47,5,,,,,287
+ID0797,Dan,03/22/2023,16:02:00,Payment related,Y,Y,124,00:06:33,3,,,,,393
+ID0798,Becky,03/22/2023,16:05:00,Technical Support,Y,Y,28,00:04:12,3,,,,,252
+ID0799,Becky,03/22/2023,16:15:00,Streaming,Y,Y,107,00:01:39,4,,,,,99
+ID0800,Martha,03/22/2023,16:21:00,Admin Support,N,N,,,,,,,,0
+ID0801,Diane,03/22/2023,16:32:00,Streaming,N,N,,,,,,,,0
+ID0802,Martha,03/22/2023,16:45:00,Admin Support,N,N,,,,,,,,0
+ID0803,Stewart,03/22/2023,16:54:00,Streaming,N,N,,,,,,,,0
+ID0804,Joe,03/22/2023,16:59:00,Technical Support,N,N,,,,,,,,0
+ID0805,Diane,03/22/2023,09:37:00,Contract related,Y,Y,21,00:01:40,4,,,,,100
+ID0806,Dan,03/22/2023,09:46:00,Streaming,Y,Y,66,00:05:43,2,,,,,343
+ID0807,Becky,03/22/2023,09:52:00,Technical Support,N,N,,,,,,,,0
+ID0808,Greg,03/22/2023,10:05:00,Streaming,Y,Y,19,00:06:32,3,,,,,392
+ID0809,Greg,03/22/2023,10:07:00,Contract related,Y,Y,100,00:05:59,4,,,,,359
+ID0810,Jim,03/22/2023,10:11:00,Technical Support,Y,Y,108,00:06:24,4,,,,,384
+ID0811,Stewart,03/22/2023,10:21:00,Technical Support,Y,Y,123,00:04:35,1,,,,,275
+ID0812,Greg,03/22/2023,10:36:00,Contract related,N,N,,,,,,,,0
+ID0813,Dan,03/22/2023,10:52:00,Contract related,Y,Y,76,00:02:07,2,,,,,127
+ID0814,Joe,03/22/2023,10:56:00,Contract related,Y,Y,78,00:01:33,2,,,,,93
+ID0815,Becky,03/22/2023,11:01:00,Streaming,Y,Y,17,00:02:33,1,,,,,153
+ID0816,Diane,03/22/2023,11:09:00,Streaming,Y,Y,60,00:04:13,4,,,,,253
+ID0817,Jim,03/22/2023,11:15:00,Contract related,Y,Y,76,00:01:47,3,,,,,107
+ID0818,Greg,03/22/2023,12:00:00,Contract related,Y,Y,80,00:04:02,4,,,,,242
+ID0819,Greg,03/22/2023,12:02:00,Admin Support,Y,N,20,00:05:37,4,,,,,337
+ID0820,Becky,03/22/2023,12:33:00,Admin Support,Y,Y,82,00:06:22,3,,,,,382
+ID0821,Stewart,03/22/2023,12:43:00,Technical Support,Y,Y,33,00:05:52,3,,,,,352
+ID0822,Stewart,03/22/2023,12:50:00,Admin Support,Y,Y,93,00:01:56,3,,,,,116
+ID0823,Diane,03/22/2023,12:59:00,Streaming,Y,Y,29,00:03:00,4,,,,,180
+ID0824,Martha,03/22/2023,13:10:00,Admin Support,Y,Y,83,00:06:53,4,,,,,413
+ID0825,Stewart,03/22/2023,13:18:00,Payment related,Y,Y,113,00:02:01,4,,,,,121
+ID0826,Stewart,03/22/2023,13:53:00,Admin Support,Y,Y,21,00:03:26,4,,,,,206
+ID0827,Becky,03/22/2023,13:55:00,Admin Support,Y,N,82,00:02:40,4,,,,,160
+ID0828,Diane,03/22/2023,13:58:00,Streaming,Y,Y,91,00:03:47,3,,,,,227
+ID0829,Dan,03/22/2023,14:13:00,Technical Support,Y,Y,111,00:00:40,4,,,,,40
+ID0830,Martha,03/22/2023,14:16:00,Admin Support,Y,Y,70,00:05:13,4,,,,,313
+ID0831,Dan,03/22/2023,14:24:00,Technical Support,N,N,,,,,,,,0
+ID0832,Joe,03/22/2023,14:30:00,Streaming,Y,Y,58,00:04:19,4,,,,,259
+ID0833,Jim,03/22/2023,14:34:00,Streaming,Y,Y,10,00:05:27,4,,,,,327
+ID0834,Becky,03/22/2023,14:35:00,Payment related,Y,Y,77,00:03:00,1,,,,,180
+ID0835,Diane,03/22/2023,14:46:00,Streaming,Y,Y,92,00:03:59,4,,,,,239
+ID0836,Jim,03/22/2023,16:16:00,Admin Support,Y,Y,59,00:02:09,1,,,,,129
+ID0837,Diane,03/22/2023,16:28:00,Admin Support,Y,Y,42,00:04:19,2,,,,,259
+ID0838,Greg,03/22/2023,16:29:00,Payment related,Y,Y,110,00:04:32,3,,,,,272
+ID0839,Jim,03/22/2023,16:37:00,Contract related,Y,Y,21,00:01:32,5,,,,,92
+ID0840,Diane,03/22/2023,16:59:00,Payment related,N,N,,,,,,,,0
+ID0841,Diane,03/22/2023,17:18:00,Technical Support,Y,N,60,00:03:28,4,,,,,208
+ID0842,Greg,03/22/2023,17:19:00,Payment related,Y,Y,93,00:02:25,2,,,,,145
+ID0843,Greg,03/22/2023,10:13:00,Contract related,N,N,,,,,,,,0
+ID0844,Diane,03/23/2023,10:19:00,Streaming,Y,Y,79,00:06:12,3,,,,,372
+ID0845,Diane,03/23/2023,10:20:00,Technical Support,Y,Y,21,00:05:57,5,,,,,357
+ID0846,Stewart,03/23/2023,10:25:00,Contract related,Y,Y,102,00:02:46,5,,,,,166
+ID0847,Joe,03/23/2023,10:26:00,Payment related,Y,N,10,00:01:18,5,,,,,78
+ID0848,Stewart,03/23/2023,10:35:00,Technical Support,Y,Y,117,00:00:41,4,,,,,41
+ID0849,Becky,03/23/2023,10:36:00,Contract related,Y,Y,45,00:06:53,3,,,,,413
+ID0850,Greg,03/23/2023,10:44:00,Admin Support,Y,N,50,00:01:01,3,,,,,61
+ID0851,Becky,03/23/2023,14:25:00,Admin Support,Y,Y,42,00:02:48,3,,,,,168
+ID0852,Jim,03/23/2023,14:27:00,Contract related,Y,Y,86,00:06:03,3,,,,,363
+ID0853,Jim,03/23/2023,14:30:00,Contract related,Y,Y,92,00:04:43,5,,,,,283
+ID0854,Diane,03/23/2023,14:52:00,Streaming,Y,Y,54,00:05:39,5,,,,,339
+ID0855,Dan,03/23/2023,15:02:00,Streaming,Y,Y,76,00:06:35,3,,,,,395
+ID0856,Greg,03/23/2023,15:17:00,Admin Support,Y,Y,49,00:01:59,5,,,,,119
+ID0857,Joe,03/23/2023,15:20:00,Contract related,Y,Y,13,00:04:50,3,,,,,290
+ID0858,Becky,03/23/2023,15:24:00,Payment related,N,N,,,,,,,,0
+ID0859,Becky,03/23/2023,15:28:00,Streaming,Y,Y,24,00:05:30,5,,,,,330
+ID0860,Becky,03/23/2023,15:31:00,Streaming,Y,Y,71,00:02:39,3,,,,,159
+ID0861,Stewart,03/23/2023,15:37:00,Admin Support,Y,Y,42,00:06:13,3,,,,,373
+ID0862,Becky,03/23/2023,15:38:00,Streaming,Y,Y,63,00:05:25,1,,,,,325
+ID0863,Becky,03/23/2023,15:50:00,Technical Support,Y,N,19,00:00:36,5,,,,,36
+ID0864,Dan,03/23/2023,15:51:00,Streaming,Y,Y,107,00:05:11,1,,,,,311
+ID0865,Dan,03/23/2023,15:57:00,Technical Support,N,N,,,,,,,,0
+ID0866,Martha,03/23/2023,16:09:00,Admin Support,Y,Y,85,00:05:21,4,,,,,321
+ID0867,Diane,03/23/2023,17:04:00,Technical Support,Y,Y,15,00:01:09,2,,,,,69
+ID0868,Becky,03/23/2023,17:10:00,Technical Support,Y,Y,111,00:06:45,5,,,,,405
+ID0869,Diane,03/23/2023,17:19:00,Contract related,Y,Y,23,00:01:01,4,,,,,61
+ID0870,Dan,03/23/2023,17:26:00,Payment related,Y,Y,115,00:00:36,3,,,,,36
+ID0871,Jim,03/23/2023,10:26:00,Technical Support,Y,Y,83,00:00:52,3,,,,,52
+ID0872,Greg,03/23/2023,10:27:00,Admin Support,N,N,,,,,,,,0
+ID0873,Becky,03/23/2023,10:45:00,Streaming,N,N,,,,,,,,0
+ID0874,Greg,03/23/2023,10:50:00,Technical Support,Y,Y,50,00:06:29,3,,,,,389
+ID0875,Becky,03/23/2023,11:00:00,Payment related,Y,Y,19,00:01:23,3,,,,,83
+ID0876,Diane,03/23/2023,11:04:00,Contract related,Y,N,107,00:03:36,4,,,,,216
+ID0877,Joe,03/23/2023,11:17:00,Admin Support,Y,N,121,00:03:49,3,,,,,229
+ID0878,Dan,03/23/2023,11:32:00,Payment related,Y,Y,55,00:05:07,3,,,,,307
+ID0879,Becky,03/23/2023,16:10:00,Streaming,Y,Y,92,00:01:19,2,,,,,79
+ID0880,Stewart,03/23/2023,16:21:00,Admin Support,Y,N,24,00:05:48,3,,,,,348
+ID0881,Martha,03/23/2023,16:24:00,Technical Support,N,N,,,,,,,,0
+ID0882,Jim,03/23/2023,16:26:00,Streaming,Y,Y,58,00:02:18,5,,,,,138
+ID0883,Dan,03/23/2023,16:32:00,Technical Support,N,N,,,,,,,,0
+ID0884,Stewart,03/23/2023,16:47:00,Payment related,N,N,,,,,,,,0
+ID0885,Greg,03/23/2023,16:55:00,Streaming,Y,Y,28,00:06:55,4,,,,,415
+ID0886,Joe,03/23/2023,17:00:00,Technical Support,Y,Y,30,00:06:49,4,,,,,409
+ID0887,Greg,03/23/2023,17:09:00,Admin Support,Y,Y,84,00:02:42,3,,,,,162
+ID0888,Jim,03/23/2023,17:18:00,Technical Support,Y,Y,78,00:04:57,2,,,,,297
+ID0889,Jim,03/23/2023,17:21:00,Admin Support,Y,Y,122,00:01:05,3,,,,,65
+ID0890,Diane,03/23/2023,17:25:00,Contract related,Y,Y,26,00:01:11,1,,,,,71
+ID0891,Jim,03/23/2023,17:27:00,Technical Support,Y,Y,95,00:00:57,3,,,,,57
+ID0892,Stewart,03/23/2023,10:26:00,Technical Support,Y,Y,45,00:01:48,4,,,,,108
+ID0893,Diane,03/23/2023,10:31:00,Technical Support,N,N,,,,,,,,0
+ID0894,Diane,03/23/2023,10:37:00,Contract related,N,N,,,,,,,,0
+ID0895,Dan,03/23/2023,10:43:00,Streaming,Y,N,76,00:06:40,3,,,,,400
+ID0896,Martha,03/23/2023,10:54:00,Streaming,Y,N,97,00:01:36,4,,,,,96
+ID0897,Stewart,03/23/2023,11:06:00,Technical Support,N,N,,,,,,,,0
+ID0898,Stewart,03/23/2023,11:07:00,Contract related,Y,Y,22,00:02:57,3,,,,,177
+ID0899,Becky,03/23/2023,11:08:00,Streaming,Y,N,55,00:00:52,3,,,,,52
+ID0900,Joe,03/23/2023,11:14:00,Payment related,Y,N,64,00:01:08,4,,,,,68
+ID0901,Greg,03/23/2023,11:21:00,Streaming,Y,Y,87,00:01:13,3,,,,,73
+ID0902,Stewart,03/23/2023,11:23:00,Technical Support,N,N,,,,,,,,0
+ID0903,Martha,03/23/2023,11:41:00,Streaming,Y,Y,79,00:04:00,4,,,,,240
+ID0904,Becky,03/23/2023,11:43:00,Contract related,Y,Y,33,00:05:02,4,,,,,302
+ID0905,Joe,03/23/2023,11:46:00,Technical Support,Y,Y,114,00:05:22,4,,,,,322
+ID0906,Stewart,03/23/2023,12:01:00,Technical Support,Y,Y,112,00:00:54,5,,,,,54
+ID0907,Becky,03/23/2023,12:18:00,Technical Support,Y,Y,61,00:06:14,3,,,,,374
+ID0908,Jim,03/23/2023,12:23:00,Technical Support,N,N,,,,,,,,0
+ID0909,Jim,03/23/2023,12:31:00,Payment related,Y,N,58,00:04:31,2,,,,,271
+ID0910,Becky,03/23/2023,12:35:00,Streaming,Y,Y,13,00:02:05,3,,,,,125
+ID0911,Stewart,03/23/2023,12:37:00,Contract related,Y,Y,36,00:03:58,4,,,,,238
+ID0912,Greg,03/23/2023,12:47:00,Contract related,Y,Y,48,00:03:38,3,,,,,218
+ID0913,Stewart,03/23/2023,13:49:00,Payment related,Y,Y,99,00:00:33,5,,,,,33
+ID0914,Joe,03/23/2023,13:51:00,Technical Support,Y,Y,78,00:01:47,3,,,,,107
+ID0915,Greg,03/23/2023,13:55:00,Streaming,Y,Y,82,00:02:52,4,,,,,172
+ID0916,Becky,03/23/2023,13:59:00,Admin Support,N,N,,,,,,,,0
+ID0917,Stewart,03/23/2023,14:00:00,Streaming,Y,Y,19,00:01:43,5,,,,,103
+ID0918,Becky,03/23/2023,14:03:00,Streaming,Y,Y,34,00:06:45,4,,,,,405
+ID0919,Becky,03/23/2023,14:04:00,Technical Support,Y,Y,89,00:03:11,3,,,,,191
+ID0920,Martha,03/23/2023,14:06:00,Contract related,Y,Y,116,00:06:18,4,,,,,378
+ID0921,Martha,03/23/2023,14:12:00,Streaming,Y,Y,88,00:04:03,4,,,,,243
+ID0922,Stewart,03/23/2023,14:14:00,Streaming,Y,Y,15,00:03:04,3,,,,,184
+ID0923,Martha,03/23/2023,14:30:00,Contract related,Y,Y,59,00:02:17,5,,,,,137
+ID0924,Greg,03/24/2023,15:44:00,Contract related,N,N,,,,,,,,0
+ID0925,Martha,03/24/2023,15:49:00,Contract related,Y,Y,125,00:03:09,2,,,,,189
+ID0926,Greg,03/24/2023,15:50:00,Streaming,Y,Y,88,00:04:06,4,,,,,246
+ID0927,Jim,03/24/2023,15:52:00,Streaming,Y,Y,20,00:04:39,5,,,,,279
+ID0928,Stewart,03/24/2023,16:26:00,Contract related,Y,Y,64,00:05:46,3,,,,,346
+ID0929,Jim,03/24/2023,16:27:00,Streaming,N,N,,,,,,,,0
+ID0930,Stewart,03/24/2023,16:34:00,Admin Support,Y,Y,111,00:02:19,5,,,,,139
+ID0931,Joe,03/24/2023,16:37:00,Admin Support,N,N,,,,,,,,0
+ID0932,Jim,03/24/2023,16:44:00,Technical Support,N,N,,,,,,,,0
+ID0933,Joe,03/24/2023,16:47:00,Technical Support,Y,Y,40,00:03:01,4,,,,,181
+ID0934,Martha,03/24/2023,16:50:00,Technical Support,Y,Y,35,00:03:07,2,,,,,187
+ID0935,Martha,03/24/2023,17:03:00,Contract related,Y,Y,106,00:02:47,5,,,,,167
+ID0936,Diane,03/24/2023,17:07:00,Payment related,Y,Y,97,00:02:39,2,,,,,159
+ID0937,Diane,03/24/2023,10:01:00,Contract related,Y,Y,67,00:01:51,3,,,,,111
+ID0938,Stewart,03/24/2023,10:08:00,Contract related,Y,Y,98,00:01:16,5,,,,,76
+ID0939,Joe,03/24/2023,10:17:00,Contract related,Y,Y,120,00:02:20,4,,,,,140
+ID0940,Becky,03/24/2023,10:25:00,Technical Support,Y,Y,91,00:00:45,5,,,,,45
+ID0941,Martha,03/24/2023,10:26:00,Payment related,Y,Y,22,00:04:53,5,,,,,293
+ID0942,Diane,03/24/2023,10:31:00,Streaming,Y,N,113,00:02:45,2,,,,,165
+ID0943,Diane,03/24/2023,10:37:00,Streaming,N,N,,,,,,,,0
+ID0944,Jim,03/24/2023,10:43:00,Payment related,Y,Y,60,00:01:58,4,,,,,118
+ID0945,Diane,03/24/2023,12:50:00,Payment related,Y,Y,97,00:02:35,5,,,,,155
+ID0946,Becky,03/24/2023,12:54:00,Streaming,Y,Y,118,00:00:52,4,,,,,52
+ID0947,Dan,03/24/2023,12:55:00,Technical Support,Y,Y,19,00:01:21,5,,,,,81
+ID0948,Stewart,03/24/2023,12:56:00,Contract related,N,N,,,,,,,,0
+ID0949,Greg,03/24/2023,13:00:00,Streaming,N,N,,,,,,,,0
+ID0950,Dan,03/24/2023,13:10:00,Streaming,Y,Y,124,00:06:18,4,,,,,378
+ID0951,Dan,03/24/2023,13:15:00,Payment related,Y,Y,53,00:05:11,2,,,,,311
+ID0952,Diane,03/24/2023,13:26:00,Admin Support,Y,Y,61,00:00:38,5,,,,,38
+ID0953,Joe,03/24/2023,13:42:00,Contract related,Y,Y,18,00:00:46,1,,,,,46
+ID0954,Greg,03/24/2023,13:45:00,Admin Support,Y,Y,80,00:01:16,3,,,,,76
+ID0955,Stewart,03/24/2023,13:46:00,Technical Support,Y,Y,47,00:04:08,4,,,,,248
+ID0956,Stewart,03/24/2023,13:49:00,Payment related,Y,Y,101,00:05:20,2,,,,,320
+ID0957,Joe,03/24/2023,16:27:00,Streaming,Y,Y,71,00:05:40,3,,,,,340
+ID0958,Martha,03/24/2023,16:34:00,Technical Support,Y,Y,44,00:04:07,4,,,,,247
+ID0959,Becky,03/24/2023,16:37:00,Payment related,Y,Y,14,00:03:00,4,,,,,180
+ID0960,Martha,03/24/2023,16:44:00,Payment related,N,N,,,,,,,,0
+ID0961,Jim,03/24/2023,16:47:00,Contract related,Y,Y,44,00:02:40,2,,,,,160
+ID0962,Diane,03/24/2023,16:50:00,Admin Support,Y,Y,97,00:06:46,4,,,,,406
+ID0963,Becky,03/24/2023,17:03:00,Streaming,N,N,,,,,,,,0
+ID0964,Diane,03/24/2023,17:07:00,Admin Support,Y,N,91,00:04:09,3,,,,,249
+ID0965,Dan,03/24/2023,17:09:00,Payment related,Y,Y,48,00:03:13,3,,,,,193
+ID0966,Greg,03/24/2023,17:10:00,Contract related,Y,Y,45,00:01:39,3,,,,,99
+ID0967,Becky,03/24/2023,17:16:00,Admin Support,Y,Y,60,00:02:00,5,,,,,120
+ID0968,Jim,03/24/2023,17:17:00,Streaming,Y,Y,85,00:05:32,4,,,,,332
+ID0969,Joe,03/24/2023,17:28:00,Admin Support,Y,Y,53,00:06:06,4,,,,,366
+ID0970,Greg,03/24/2023,10:34:00,Contract related,Y,N,27,00:06:14,5,,,,,374
+ID0971,Joe,03/24/2023,10:38:00,Admin Support,Y,Y,30,00:04:03,3,,,,,243
+ID0972,Dan,03/24/2023,10:40:00,Contract related,N,N,,,,,,,,0
+ID0973,Jim,03/24/2023,10:42:00,Admin Support,Y,Y,113,00:03:01,5,,,,,181
+ID0974,Jim,03/24/2023,10:48:00,Technical Support,N,N,,,,,,,,0
+ID0975,Diane,03/24/2023,10:50:00,Admin Support,N,N,,,,,,,,0
+ID0976,Jim,03/24/2023,10:58:00,Streaming,Y,Y,80,00:06:57,4,,,,,417
+ID0977,Stewart,03/24/2023,11:00:00,Contract related,Y,Y,45,00:07:00,5,,,,,420
+ID0978,Joe,03/24/2023,17:01:00,Admin Support,Y,Y,95,00:02:16,1,,,,,136
+ID0979,Martha,03/27/2023,15:26:00,Streaming,N,N,,,,,,,,0
+ID0980,Dan,03/27/2023,15:28:00,Payment related,Y,Y,33,00:01:28,3,,,,,88
+ID0981,Stewart,03/27/2023,15:40:00,Payment related,N,N,,,,,,,,0
+ID0982,Jim,03/27/2023,15:42:00,Streaming,Y,Y,90,00:06:47,3,,,,,407
+ID0983,Greg,03/27/2023,15:46:00,Payment related,Y,Y,90,00:02:14,3,,,,,134
+ID0984,Jim,03/27/2023,15:48:00,Streaming,Y,N,57,00:04:10,1,,,,,250
+ID0985,Becky,03/27/2023,15:50:00,Admin Support,Y,Y,123,00:05:50,2,,,,,350
+ID0986,Diane,03/27/2023,15:52:00,Admin Support,Y,Y,39,00:06:51,4,,,,,411
+ID0987,Greg,03/27/2023,15:58:00,Technical Support,Y,N,38,00:02:16,5,,,,,136
+ID0988,Diane,03/27/2023,16:00:00,Streaming,Y,Y,26,00:01:35,1,,,,,95
+ID0989,Diane,03/27/2023,16:06:00,Contract related,Y,Y,43,00:02:34,3,,,,,154
+ID0990,Jim,03/27/2023,16:12:00,Streaming,Y,Y,89,00:05:53,3,,,,,353
+ID0991,Jim,03/27/2023,16:14:00,Contract related,Y,Y,121,00:05:24,3,,,,,324
+ID0992,Jim,03/27/2023,16:16:00,Payment related,Y,Y,114,00:03:10,4,,,,,190
+ID0993,Stewart,03/27/2023,16:28:00,Contract related,N,N,,,,,,,,0
+ID0994,Dan,03/27/2023,16:30:00,Technical Support,N,N,,,,,,,,0
+ID0995,Becky,03/27/2023,16:32:00,Streaming,N,N,,,,,,,,0
+ID0996,Becky,03/27/2023,16:34:00,Admin Support,Y,N,101,00:04:36,3,,,,,276
+ID0997,Joe,03/27/2023,13:12:00,Payment related,Y,Y,87,00:05:19,4,,,,,319
+ID0998,Greg,03/27/2023,13:18:00,Admin Support,Y,Y,22,00:06:02,5,,,,,362
+ID0999,Stewart,03/27/2023,13:20:00,Streaming,Y,Y,19,00:03:57,2,,,,,237
+ID1000,Becky,03/27/2023,13:22:00,Admin Support,Y,Y,31,00:02:30,4,,,,,150
+ID1001,Martha,03/27/2023,13:26:00,Payment related,Y,Y,24,00:06:03,4,,,,,363
+ID1002,Dan,03/27/2023,13:28:00,Payment related,Y,N,94,00:04:42,4,,,,,282
+ID1003,Dan,03/27/2023,13:32:00,Streaming,Y,Y,79,00:00:47,4,,,,,47
+ID1004,Jim,03/27/2023,13:34:00,Technical Support,N,N,,,,,,,,0
+ID1005,Martha,03/27/2023,13:36:00,Admin Support,Y,Y,87,00:04:40,4,,,,,280
+ID1006,Dan,03/27/2023,13:38:00,Contract related,Y,N,65,00:06:04,4,,,,,364
+ID1007,Martha,03/27/2023,13:44:00,Contract related,Y,Y,36,00:04:23,3,,,,,263
+ID1008,Joe,03/27/2023,13:48:00,Technical Support,N,N,,,,,,,,0
+ID1009,Stewart,03/27/2023,10:38:00,Streaming,Y,Y,33,00:02:16,4,,,,,136
+ID1010,Becky,03/27/2023,10:40:00,Contract related,N,N,,,,,,,,0
+ID1011,Jim,03/27/2023,10:42:00,Admin Support,N,N,,,,,,,,0
+ID1012,Greg,03/27/2023,10:48:00,Streaming,Y,Y,24,00:03:15,5,,,,,195
+ID1013,Stewart,03/27/2023,10:50:00,Admin Support,Y,Y,32,00:03:40,5,,,,,220
+ID1014,Joe,03/27/2023,10:58:00,Contract related,Y,N,24,00:03:46,4,,,,,226
+ID1015,Stewart,03/27/2023,11:00:00,Technical Support,Y,Y,96,00:05:29,5,,,,,329
+ID1016,Joe,03/27/2023,11:02:00,Technical Support,Y,Y,45,00:02:05,5,,,,,125
+ID1017,Jim,03/27/2023,11:12:00,Admin Support,Y,Y,16,00:05:09,1,,,,,309
+ID1018,Greg,03/27/2023,11:16:00,Technical Support,Y,Y,75,00:06:56,5,,,,,416
+ID1019,Joe,03/27/2023,11:22:00,Contract related,Y,Y,71,00:00:37,3,,,,,37
+ID1020,Stewart,03/27/2023,11:24:00,Technical Support,Y,Y,47,00:02:17,3,,,,,137
+ID1021,Stewart,03/27/2023,11:28:00,Admin Support,Y,Y,54,00:04:48,3,,,,,288
+ID1022,Becky,03/27/2023,11:32:00,Payment related,Y,Y,101,00:04:29,4,,,,,269
+ID1023,Martha,03/27/2023,11:34:00,Streaming,Y,Y,46,00:02:07,3,,,,,127
+ID1024,Becky,03/27/2023,11:36:00,Technical Support,Y,Y,45,00:06:55,3,,,,,415
+ID1025,Martha,03/27/2023,11:40:00,Technical Support,Y,Y,45,00:05:25,4,,,,,325
+ID1026,Jim,03/27/2023,11:46:00,Admin Support,Y,Y,30,00:04:58,5,,,,,298
+ID1027,Greg,03/27/2023,11:48:00,Technical Support,Y,Y,105,00:04:54,4,,,,,294
+ID1028,Jim,03/27/2023,11:50:00,Payment related,Y,Y,102,00:04:54,4,,,,,294
+ID1029,Greg,03/27/2023,12:02:00,Payment related,Y,Y,46,00:05:01,3,,,,,301
+ID1030,Stewart,03/27/2023,10:06:00,Admin Support,Y,Y,11,00:00:52,1,,,,,52
+ID1031,Dan,03/27/2023,10:12:00,Payment related,Y,Y,125,00:06:03,3,,,,,363
+ID1032,Stewart,03/27/2023,10:14:00,Admin Support,Y,Y,112,00:01:53,3,,,,,113
+ID1033,Becky,03/27/2023,10:20:00,Technical Support,Y,Y,14,00:01:56,3,,,,,116
+ID1034,Joe,03/27/2023,10:21:00,Contract related,Y,N,10,00:04:43,4,,,,,283
+ID1035,Martha,03/27/2023,10:24:00,Contract related,Y,Y,60,00:00:32,3,,,,,32
+ID1036,Diane,03/27/2023,10:43:00,Streaming,Y,Y,59,00:05:02,5,,,,,302
+ID1037,Stewart,03/27/2023,10:45:00,Technical Support,Y,Y,87,00:03:43,5,,,,,223
+ID1038,Martha,03/27/2023,10:50:00,Contract related,Y,Y,111,00:03:06,5,,,,,186
+ID1039,Joe,03/27/2023,11:06:00,Contract related,N,N,,,,,,,,0
+ID1040,Becky,03/27/2023,11:05:00,Payment related,Y,Y,10,00:03:11,2,,,,,191
+ID1041,Joe,03/27/2023,16:30:00,Technical Support,N,N,,,,,,,,0
+ID1042,Joe,03/27/2023,16:35:00,Streaming,N,N,,,,,,,,0
+ID1043,Greg,03/27/2023,16:45:00,Payment related,Y,Y,116,00:05:48,5,,,,,348
+ID1044,Diane,03/27/2023,17:00:00,Admin Support,Y,N,89,00:03:20,3,,,,,200
+ID1045,Becky,03/27/2023,17:15:00,Contract related,N,N,,,,,,,,0
+ID1046,Joe,03/27/2023,09:46:00,Contract related,Y,N,106,00:03:52,4,,,,,232
+ID1047,Stewart,03/27/2023,09:52:00,Streaming,N,N,,,,,,,,0
+ID1048,Martha,03/27/2023,10:16:00,Streaming,Y,Y,81,00:01:27,4,,,,,87
+ID1049,Dan,03/27/2023,10:20:00,Contract related,N,N,,,,,,,,0
+ID1050,Jim,03/27/2023,10:37:00,Admin Support,Y,Y,96,00:05:39,5,,,,,339
+ID1051,Jim,03/27/2023,10:40:00,Payment related,Y,Y,64,00:06:06,5,,,,,366
+ID1052,Jim,03/27/2023,14:00:00,Contract related,Y,N,79,00:06:49,1,,,,,409
+ID1053,Jim,03/27/2023,14:24:00,Payment related,Y,Y,98,00:02:23,1,,,,,143
+ID1054,Joe,03/27/2023,14:37:00,Admin Support,Y,Y,91,00:04:00,5,,,,,240
+ID1055,Martha,03/27/2023,15:41:00,Streaming,N,N,,,,,,,,0
+ID1056,Stewart,03/27/2023,16:55:00,Contract related,Y,Y,84,00:06:44,2,,,,,404
+ID1057,Joe,03/27/2023,17:08:00,Technical Support,Y,Y,47,00:05:58,5,,,,,358
+ID1058,Martha,03/27/2023,17:15:00,Payment related,Y,Y,42,00:02:06,5,,,,,126
+ID1059,Dan,03/27/2023,17:28:00,Streaming,Y,N,45,00:03:44,4,,,,,224
+ID1060,Dan,03/27/2023,12:30:00,Technical Support,N,N,,,,,,,,0
+ID1061,Jim,03/27/2023,12:33:00,Payment related,Y,Y,19,00:01:36,5,,,,,96
+ID1062,Greg,03/27/2023,12:54:00,Contract related,Y,Y,114,00:01:25,3,,,,,85
+ID1063,Jim,03/28/2023,13:00:00,Admin Support,Y,Y,94,00:00:57,5,,,,,57
+ID1064,Dan,03/28/2023,13:32:00,Payment related,N,N,,,,,,,,0
+ID1065,Diane,03/28/2023,09:59:00,Streaming,Y,Y,99,00:02:16,5,,,,,136
+ID1066,Diane,03/28/2023,10:10:00,Streaming,Y,Y,23,00:04:32,4,,,,,272
+ID1067,Greg,03/28/2023,10:59:00,Technical Support,N,N,,,,,,,,0
+ID1068,Dan,03/28/2023,11:20:00,Admin Support,Y,Y,80,00:04:52,5,,,,,292
+ID1069,Stewart,03/28/2023,11:43:00,Payment related,Y,Y,18,00:05:19,3,,,,,319
+ID1070,Diane,03/28/2023,11:46:00,Contract related,N,N,,,,,,,,0
+ID1071,Martha,03/28/2023,11:47:00,Payment related,Y,Y,104,00:03:33,4,,,,,213
+ID1072,Martha,03/28/2023,12:24:00,Payment related,Y,Y,116,00:05:45,3,,,,,345
+ID1073,Stewart,03/28/2023,12:44:00,Streaming,Y,Y,44,00:06:09,5,,,,,369
+ID1074,Joe,03/28/2023,15:43:00,Payment related,Y,Y,91,00:06:43,4,,,,,403
+ID1075,Greg,03/28/2023,15:47:00,Contract related,N,N,,,,,,,,0
+ID1076,Martha,03/28/2023,15:52:00,Technical Support,Y,Y,122,00:04:15,3,,,,,255
+ID1077,Becky,03/28/2023,15:55:00,Streaming,Y,Y,103,00:02:49,3,,,,,169
+ID1078,Becky,03/28/2023,16:04:00,Technical Support,Y,Y,18,00:02:01,5,,,,,121
+ID1079,Jim,03/28/2023,16:11:00,Contract related,Y,Y,20,00:02:27,4,,,,,147
+ID1080,Greg,03/28/2023,16:19:00,Payment related,Y,Y,93,00:01:41,2,,,,,101
+ID1081,Becky,03/28/2023,16:44:00,Admin Support,N,N,,,,,,,,0
+ID1082,Joe,03/28/2023,16:46:00,Technical Support,Y,Y,63,00:04:20,4,,,,,260
+ID1083,Greg,03/28/2023,16:58:00,Contract related,Y,Y,90,00:06:32,4,,,,,392
+ID1084,Dan,03/28/2023,17:04:00,Contract related,Y,Y,43,00:04:00,4,,,,,240
+ID1085,Jim,03/28/2023,17:12:00,Contract related,Y,N,105,00:01:50,4,,,,,110
+ID1086,Joe,03/28/2023,17:30:00,Contract related,Y,Y,59,00:05:10,5,,,,,310
+ID1087,Joe,03/28/2023,11:46:00,Admin Support,Y,Y,115,00:06:47,4,,,,,407
+ID1088,Dan,03/28/2023,11:47:00,Payment related,Y,Y,106,00:01:51,4,,,,,111
+ID1089,Becky,03/28/2023,12:24:00,Streaming,Y,Y,35,00:00:59,3,,,,,59
+ID1090,Diane,03/28/2023,12:44:00,Contract related,Y,Y,48,00:06:35,4,,,,,395
+ID1091,Jim,03/28/2023,12:46:00,Contract related,N,N,,,,,,,,0
+ID1092,Jim,03/28/2023,12:56:00,Technical Support,Y,Y,56,00:06:38,4,,,,,398
+ID1093,Stewart,03/28/2023,13:01:00,Technical Support,N,N,,,,,,,,0
+ID1094,Stewart,03/28/2023,13:08:00,Admin Support,Y,Y,99,00:04:39,4,,,,,279
+ID1095,Joe,03/28/2023,13:38:00,Admin Support,Y,Y,71,00:02:41,3,,,,,161
+ID1096,Stewart,03/28/2023,13:42:00,Payment related,Y,Y,54,00:04:24,4,,,,,264
+ID1097,Greg,03/28/2023,13:46:00,Admin Support,N,N,,,,,,,,0
+ID1098,Dan,03/28/2023,13:48:00,Payment related,N,N,,,,,,,,0
+ID1099,Jim,03/28/2023,09:33:00,Streaming,Y,Y,54,00:01:26,4,,,,,86
+ID1100,Joe,03/28/2023,09:34:00,Technical Support,Y,Y,62,00:01:49,2,,,,,109
+ID1101,Stewart,03/28/2023,09:36:00,Payment related,Y,Y,24,00:04:08,4,,,,,248
+ID1102,Jim,03/28/2023,09:59:00,Admin Support,Y,Y,94,00:04:10,5,,,,,250
+ID1103,Becky,03/28/2023,10:53:00,Payment related,Y,Y,43,00:00:56,3,,,,,56
+ID1104,Martha,03/28/2023,11:00:00,Streaming,N,N,,,,,,,,0
+ID1105,Joe,03/28/2023,11:02:00,Streaming,Y,Y,58,00:04:14,5,,,,,254
+ID1106,Greg,03/28/2023,11:07:00,Payment related,Y,Y,15,00:06:35,1,,,,,395
+ID1107,Becky,03/28/2023,11:20:00,Contract related,Y,Y,102,00:01:16,1,,,,,76
+ID1108,Greg,03/28/2023,11:28:00,Contract related,Y,Y,40,00:05:22,2,,,,,322
+ID1109,Diane,03/28/2023,11:36:00,Technical Support,Y,Y,63,00:04:50,2,,,,,290
+ID1110,Martha,03/28/2023,11:37:00,Streaming,Y,Y,77,00:06:22,4,,,,,382
+ID1111,Martha,03/28/2023,11:38:00,Technical Support,Y,Y,93,00:05:30,4,,,,,330
+ID1112,Becky,03/28/2023,13:14:00,Streaming,Y,Y,101,00:03:22,5,,,,,202
+ID1113,Stewart,03/28/2023,13:16:00,Payment related,Y,Y,34,00:00:34,5,,,,,34
+ID1114,Stewart,03/28/2023,13:26:00,Payment related,Y,Y,64,00:01:34,5,,,,,94
+ID1115,Greg,03/28/2023,13:29:00,Technical Support,Y,N,25,00:06:32,3,,,,,392
+ID1116,Jim,03/28/2023,13:55:00,Admin Support,Y,Y,122,00:02:13,4,,,,,133
+ID1117,Stewart,03/28/2023,14:19:00,Streaming,Y,Y,36,00:01:01,4,,,,,61
+ID1118,Stewart,03/28/2023,14:30:00,Contract related,Y,Y,37,00:01:34,3,,,,,94
+ID1119,Joe,03/28/2023,14:35:00,Streaming,Y,Y,112,00:06:46,3,,,,,406
+ID1120,Diane,03/28/2023,15:03:00,Payment related,N,N,,,,,,,,0
+ID1121,Jim,03/28/2023,15:09:00,Admin Support,Y,Y,57,00:04:53,3,,,,,293
+ID1122,Jim,03/28/2023,15:13:00,Admin Support,Y,Y,14,00:02:28,3,,,,,148
+ID1123,Becky,03/28/2023,15:14:00,Admin Support,Y,Y,72,00:04:11,2,,,,,251
+ID1124,Becky,03/28/2023,15:25:00,Admin Support,Y,Y,60,00:06:32,3,,,,,392
+ID1125,Becky,03/28/2023,15:32:00,Payment related,Y,Y,52,00:02:57,5,,,,,177
+ID1126,Stewart,03/28/2023,15:36:00,Contract related,N,N,,,,,,,,0
+ID1127,Joe,03/28/2023,15:46:00,Streaming,Y,Y,73,00:00:45,3,,,,,45
+ID1128,Becky,03/28/2023,15:51:00,Contract related,Y,Y,108,00:02:20,4,,,,,140
+ID1129,Joe,03/28/2023,16:25:00,Streaming,Y,Y,50,00:01:48,4,,,,,108
+ID1130,Stewart,03/28/2023,16:29:00,Technical Support,N,N,,,,,,,,0
+ID1131,Joe,03/28/2023,16:43:00,Admin Support,Y,N,100,00:04:04,2,,,,,244
+ID1132,Joe,03/28/2023,16:45:00,Technical Support,Y,Y,69,00:01:22,3,,,,,82
+ID1133,Becky,03/28/2023,16:49:00,Streaming,Y,Y,39,00:02:11,1,,,,,131
+ID1134,Jim,03/28/2023,17:02:00,Technical Support,Y,Y,71,00:02:54,5,,,,,174
+ID1135,Dan,03/28/2023,17:04:00,Streaming,N,N,,,,,,,,0
+ID1136,Greg,03/28/2023,17:05:00,Technical Support,Y,Y,79,00:01:19,5,,,,,79
+ID1137,Martha,03/28/2023,17:09:00,Contract related,Y,Y,57,00:05:24,3,,,,,324
+ID1138,Diane,03/28/2023,17:12:00,Admin Support,Y,Y,82,00:04:53,4,,,,,293
+ID1139,Jim,03/28/2023,09:59:00,Contract related,Y,Y,73,00:03:13,1,,,,,193
+ID1140,Jim,03/28/2023,10:03:00,Technical Support,Y,Y,110,00:02:11,5,,,,,131
+ID1141,Martha,03/29/2023,10:23:00,Admin Support,Y,Y,106,00:01:49,5,,,,,109
+ID1142,Jim,03/29/2023,10:26:00,Streaming,Y,Y,92,00:02:13,4,,,,,133
+ID1143,Greg,03/29/2023,10:29:00,Streaming,Y,Y,28,00:06:00,4,,,,,360
+ID1144,Martha,03/29/2023,10:32:00,Contract related,Y,Y,108,00:06:02,1,,,,,362
+ID1145,Becky,03/29/2023,10:49:00,Streaming,Y,Y,57,00:01:47,4,,,,,107
+ID1146,Martha,03/29/2023,11:21:00,Contract related,Y,Y,109,00:05:56,3,,,,,356
+ID1147,Greg,03/29/2023,13:29:00,Contract related,Y,Y,55,00:01:37,2,,,,,97
+ID1148,Martha,03/29/2023,13:34:00,Technical Support,N,N,,,,,,,,0
+ID1149,Dan,03/29/2023,13:35:00,Payment related,Y,Y,68,00:06:53,1,,,,,413
+ID1150,Jim,03/29/2023,13:38:00,Admin Support,Y,N,46,00:00:34,3,,,,,34
+ID1151,Jim,03/29/2023,13:58:00,Technical Support,Y,Y,30,00:04:59,3,,,,,299
+ID1152,Martha,03/29/2023,14:08:00,Admin Support,Y,Y,107,00:00:50,4,,,,,50
+ID1153,Greg,03/29/2023,14:11:00,Technical Support,Y,Y,122,00:06:25,5,,,,,385
+ID1154,Martha,03/29/2023,14:19:00,Admin Support,N,N,,,,,,,,0
+ID1155,Stewart,03/29/2023,14:30:00,Technical Support,Y,Y,18,00:00:37,5,,,,,37
+ID1156,Joe,03/29/2023,14:42:00,Streaming,N,N,,,,,,,,0
+ID1157,Joe,03/29/2023,16:04:00,Payment related,N,N,,,,,,,,0
+ID1158,Joe,03/29/2023,16:05:00,Technical Support,N,N,,,,,,,,0
+ID1159,Martha,03/29/2023,16:12:00,Technical Support,N,N,,,,,,,,0
+ID1160,Stewart,03/29/2023,16:21:00,Streaming,Y,Y,99,00:02:14,4,,,,,134
+ID1161,Dan,03/29/2023,16:33:00,Contract related,Y,Y,52,00:01:47,2,,,,,107
+ID1162,Martha,03/29/2023,16:38:00,Admin Support,N,N,,,,,,,,0
+ID1163,Becky,03/29/2023,16:45:00,Payment related,N,N,,,,,,,,0
+ID1164,Jim,03/29/2023,16:50:00,Contract related,Y,Y,79,00:00:47,3,,,,,47
+ID1165,Martha,03/29/2023,16:56:00,Streaming,Y,Y,112,00:02:51,5,,,,,171
+ID1166,Diane,03/29/2023,16:57:00,Payment related,Y,Y,16,00:04:23,3,,,,,263
+ID1167,Joe,03/29/2023,16:58:00,Contract related,Y,Y,22,00:06:58,3,,,,,418
+ID1168,Dan,03/29/2023,17:00:00,Contract related,Y,Y,115,00:01:25,1,,,,,85
+ID1169,Dan,03/29/2023,09:49:00,Technical Support,Y,Y,125,00:04:37,4,,,,,277
+ID1170,Martha,03/29/2023,09:56:00,Payment related,Y,Y,68,00:05:06,3,,,,,306
+ID1171,Jim,03/29/2023,09:59:00,Technical Support,Y,Y,44,00:01:16,4,,,,,76
+ID1172,Becky,03/29/2023,14:43:00,Technical Support,N,N,,,,,,,,0
+ID1173,Stewart,03/29/2023,14:44:00,Streaming,Y,Y,119,00:00:42,4,,,,,42
+ID1174,Martha,03/29/2023,14:52:00,Streaming,Y,Y,62,00:00:54,5,,,,,54
+ID1175,Greg,03/29/2023,14:55:00,Streaming,Y,Y,84,00:06:04,5,,,,,364
+ID1176,Martha,03/29/2023,14:58:00,Technical Support,N,N,,,,,,,,0
+ID1177,Greg,03/29/2023,15:12:00,Streaming,Y,Y,75,00:06:28,4,,,,,388
+ID1178,Martha,03/29/2023,15:27:00,Payment related,Y,Y,114,00:02:54,4,,,,,174
+ID1179,Dan,03/29/2023,15:43:00,Technical Support,N,N,,,,,,,,0
+ID1180,Stewart,03/29/2023,15:47:00,Admin Support,Y,Y,21,00:02:10,4,,,,,130
+ID1181,Stewart,03/29/2023,15:49:00,Technical Support,N,N,,,,,,,,0
+ID1182,Diane,03/29/2023,15:53:00,Admin Support,Y,Y,20,00:01:08,3,,,,,68
+ID1183,Diane,03/29/2023,16:04:00,Technical Support,Y,Y,112,00:03:37,1,,,,,217
+ID1184,Becky,03/29/2023,16:05:00,Streaming,Y,Y,85,00:05:24,4,,,,,324
+ID1185,Martha,03/29/2023,16:12:00,Admin Support,Y,Y,34,00:06:07,3,,,,,367
+ID1186,Diane,03/29/2023,16:21:00,Streaming,Y,Y,53,00:05:02,4,,,,,302
+ID1187,Martha,03/29/2023,16:33:00,Streaming,Y,Y,103,00:02:14,5,,,,,134
+ID1188,Becky,03/29/2023,16:38:00,Contract related,Y,Y,98,00:06:53,4,,,,,413
+ID1189,Becky,03/29/2023,10:02:00,Technical Support,Y,Y,23,00:04:44,1,,,,,284
+ID1190,Martha,03/29/2023,10:05:00,Admin Support,Y,Y,53,00:01:17,2,,,,,77
+ID1191,Becky,03/29/2023,10:09:00,Technical Support,N,N,,,,,,,,0
+ID1192,Diane,03/29/2023,10:17:00,Contract related,Y,N,55,00:04:40,4,,,,,280
+ID1193,Martha,03/29/2023,10:39:00,Admin Support,Y,Y,77,00:05:02,5,,,,,302
+ID1194,Becky,03/29/2023,10:49:00,Technical Support,Y,Y,46,00:06:05,3,,,,,365
+ID1195,Greg,03/29/2023,10:52:00,Technical Support,N,N,,,,,,,,0
+ID1196,Martha,03/29/2023,10:54:00,Payment related,Y,Y,39,00:05:05,4,,,,,305
+ID1197,Greg,03/29/2023,10:55:00,Payment related,Y,Y,13,00:07:00,3,,,,,420
+ID1198,Jim,03/29/2023,10:58:00,Admin Support,Y,Y,84,00:05:34,5,,,,,334
+ID1199,Dan,03/29/2023,10:59:00,Admin Support,Y,Y,60,00:04:46,3,,,,,286
+ID1200,Dan,03/29/2023,11:05:00,Admin Support,Y,Y,32,00:00:35,5,,,,,35
+ID1201,Stewart,03/30/2023,11:21:00,Technical Support,N,N,,,,,,,,0
+ID1202,Greg,03/30/2023,13:24:00,Contract related,N,N,,,,,,,,0
+ID1203,Joe,03/30/2023,13:26:00,Admin Support,N,N,,,,,,,,0
+ID1204,Dan,03/30/2023,13:35:00,Payment related,Y,Y,67,00:06:42,4,,,,,402
+ID1205,Stewart,03/30/2023,13:39:00,Streaming,Y,N,94,00:03:58,4,,,,,238
+ID1206,Stewart,03/30/2023,13:56:00,Streaming,Y,Y,92,00:06:10,1,,,,,370
+ID1207,Becky,03/30/2023,13:58:00,Streaming,Y,Y,35,00:01:10,3,,,,,70
+ID1208,Diane,03/30/2023,14:01:00,Admin Support,Y,Y,57,00:01:21,5,,,,,81
+ID1209,Stewart,03/30/2023,14:02:00,Streaming,N,N,,,,,,,,0
+ID1210,Jim,03/30/2023,14:15:00,Admin Support,Y,Y,15,00:04:55,4,,,,,295
+ID1211,Becky,03/30/2023,14:16:00,Admin Support,Y,N,54,00:03:15,5,,,,,195
+ID1212,Greg,03/30/2023,14:19:00,Payment related,Y,Y,99,00:01:00,1,,,,,60
+ID1213,Martha,03/30/2023,09:47:00,Contract related,N,N,,,,,,,,0
+ID1214,Jim,03/30/2023,09:51:00,Streaming,N,N,,,,,,,,0
+ID1215,Martha,03/30/2023,09:56:00,Streaming,N,N,,,,,,,,0
+ID1216,Martha,03/30/2023,09:59:00,Admin Support,N,N,,,,,,,,0
+ID1217,Martha,03/30/2023,10:02:00,Payment related,N,N,,,,,,,,0
+ID1218,Becky,03/30/2023,14:33:00,Streaming,Y,Y,78,00:01:05,5,,,,,65
+ID1219,Greg,03/30/2023,14:38:00,Admin Support,N,N,,,,,,,,0
+ID1220,Jim,03/30/2023,14:46:00,Payment related,Y,N,35,00:05:09,5,,,,,309
+ID1221,Becky,03/30/2023,14:50:00,Contract related,N,N,,,,,,,,0
+ID1222,Stewart,03/30/2023,15:01:00,Contract related,Y,Y,33,00:06:09,5,,,,,369
+ID1223,Greg,03/30/2023,15:06:00,Streaming,Y,Y,72,00:04:09,5,,,,,249
+ID1224,Joe,03/30/2023,15:29:00,Technical Support,Y,N,82,00:05:02,1,,,,,302
+ID1225,Greg,03/30/2023,15:31:00,Admin Support,N,N,,,,,,,,0
+ID1226,Greg,03/30/2023,15:40:00,Payment related,Y,Y,115,00:04:12,5,,,,,252
+ID1227,Diane,03/30/2023,15:44:00,Streaming,Y,Y,64,00:01:42,3,,,,,102
+ID1228,Martha,03/30/2023,15:51:00,Technical Support,N,N,,,,,,,,0
+ID1229,Jim,03/30/2023,15:55:00,Payment related,Y,Y,71,00:04:01,2,,,,,241
+ID1230,Becky,03/30/2023,16:24:00,Streaming,Y,N,50,00:05:08,3,,,,,308
+ID1231,Greg,03/30/2023,16:26:00,Streaming,Y,Y,116,00:01:13,2,,,,,73
+ID1232,Martha,03/30/2023,16:34:00,Admin Support,Y,Y,52,00:01:27,5,,,,,87
+ID1233,Greg,03/30/2023,16:46:00,Technical Support,Y,Y,112,00:03:37,5,,,,,217
+ID1234,Stewart,03/30/2023,16:56:00,Admin Support,Y,Y,116,00:02:42,3,,,,,162
+ID1235,Becky,03/30/2023,17:17:00,Payment related,Y,N,112,00:06:18,2,,,,,378
+ID1236,Dan,03/30/2023,17:21:00,Streaming,Y,Y,53,00:05:46,4,,,,,346
+ID1237,Diane,03/30/2023,11:33:00,Admin Support,Y,Y,12,00:05:31,3,,,,,331
+ID1238,Joe,03/30/2023,11:34:00,Technical Support,Y,N,120,00:00:54,4,,,,,54
+ID1239,Diane,03/30/2023,11:39:00,Admin Support,N,N,,,,,,,,0
+ID1240,Dan,03/30/2023,11:40:00,Technical Support,Y,Y,118,00:02:49,4,,,,,169
+ID1241,Jim,03/30/2023,11:58:00,Contract related,Y,Y,121,00:02:49,2,,,,,169
+ID1242,Martha,03/30/2023,12:08:00,Streaming,Y,Y,83,00:06:48,5,,,,,408
+ID1243,Joe,03/30/2023,12:17:00,Streaming,Y,Y,84,00:01:21,5,,,,,81
+ID1244,Becky,03/30/2023,12:23:00,Payment related,Y,N,63,00:05:00,4,,,,,300
+ID1245,Jim,03/30/2023,12:26:00,Technical Support,Y,Y,33,00:03:29,3,,,,,209
+ID1246,Dan,03/30/2023,15:19:00,Contract related,N,N,,,,,,,,0
+ID1247,Greg,03/30/2023,15:31:00,Admin Support,Y,N,10,00:01:01,5,,,,,61
+ID1248,Joe,03/30/2023,16:20:00,Admin Support,Y,Y,100,00:00:42,5,,,,,42
+ID1249,Diane,03/30/2023,16:21:00,Contract related,Y,Y,110,00:05:03,5,,,,,303
+ID1250,Stewart,03/30/2023,16:35:00,Payment related,Y,Y,28,00:05:16,2,,,,,316
+ID1251,Joe,03/30/2023,16:38:00,Admin Support,Y,Y,74,00:01:15,3,,,,,75
+ID1252,Jim,03/30/2023,16:42:00,Admin Support,Y,Y,18,00:01:21,3,,,,,81
+ID1253,Becky,03/30/2023,16:45:00,Streaming,Y,Y,22,00:06:12,3,,,,,372
+ID1254,Diane,03/30/2023,16:51:00,Streaming,N,N,,,,,,,,0
+ID1255,Martha,03/30/2023,17:15:00,Contract related,Y,Y,15,00:03:37,3,,,,,217
+ID1256,Martha,03/30/2023,17:18:00,Admin Support,Y,Y,120,00:04:12,2,,,,,252
+ID1257,Martha,03/30/2023,17:27:00,Contract related,Y,Y,26,00:03:47,3,,,,,227
+ID1258,Diane,03/30/2023,09:51:00,Payment related,Y,Y,33,00:01:44,5,,,,,104
+ID1259,Dan,03/30/2023,09:57:00,Streaming,Y,Y,18,00:01:14,4,,,,,74
+ID1260,Greg,03/31/2023,11:04:00,Payment related,Y,Y,29,00:05:55,5,,,,,355
+ID1261,Greg,03/31/2023,11:07:00,Payment related,Y,Y,89,00:01:34,2,,,,,94
+ID1262,Martha,03/31/2023,11:35:00,Technical Support,N,N,,,,,,,,0
+ID1263,Diane,03/31/2023,12:02:00,Admin Support,Y,Y,44,00:03:12,5,,,,,192
+ID1264,Diane,03/31/2023,12:08:00,Contract related,Y,N,62,00:03:33,4,,,,,213
+ID1265,Dan,03/31/2023,12:16:00,Admin Support,Y,Y,29,00:01:50,5,,,,,110
+ID1266,Joe,03/31/2023,12:58:00,Admin Support,Y,Y,10,00:06:42,5,,,,,402
+ID1267,Dan,03/31/2023,13:22:00,Payment related,Y,Y,75,00:02:00,4,,,,,120
+ID1268,Martha,03/31/2023,09:35:00,Streaming,N,N,,,,,,,,0
+ID1269,Dan,03/31/2023,09:44:00,Technical Support,Y,Y,33,00:01:06,5,,,,,66
+ID1270,Becky,03/31/2023,14:27:00,Technical Support,N,N,,,,,,,,0
+ID1271,Becky,03/31/2023,14:33:00,Payment related,Y,N,56,00:01:58,4,,,,,118
+ID1272,Martha,03/31/2023,15:17:00,Admin Support,N,N,,,,,,,,0
+ID1273,Stewart,03/31/2023,15:35:00,Contract related,Y,N,31,00:00:31,3,,,,,31
+ID1274,Greg,03/31/2023,16:14:00,Streaming,Y,Y,56,00:01:20,2,,,,,80
+ID1275,Jim,03/31/2023,16:27:00,Payment related,Y,Y,53,00:01:43,4,,,,,103
+ID1276,Diane,03/31/2023,16:33:00,Technical Support,Y,Y,12,00:05:48,3,,,,,348
+ID1277,Stewart,03/31/2023,17:10:00,Streaming,Y,Y,53,00:06:03,3,,,,,363
+ID1278,Diane,03/31/2023,10:37:00,Streaming,Y,Y,116,00:04:58,3,,,,,298
+ID1279,Joe,03/31/2023,10:38:00,Payment related,Y,Y,19,00:01:11,4,,,,,71
+ID1280,Dan,03/31/2023,10:39:00,Contract related,N,N,,,,,,,,0
+ID1281,Joe,03/31/2023,10:41:00,Streaming,Y,Y,74,00:05:54,2,,,,,354
+ID1282,Greg,03/31/2023,10:44:00,Streaming,Y,Y,85,00:02:44,3,,,,,164
+ID1283,Greg,03/31/2023,10:46:00,Contract related,N,N,,,,,,,,0
+ID1284,Stewart,03/31/2023,10:57:00,Payment related,N,N,,,,,,,,0
+ID1285,Dan,03/31/2023,11:19:00,Payment related,N,N,,,,,,,,0
+ID1286,Diane,03/31/2023,11:23:00,Streaming,Y,Y,48,00:06:36,2,,,,,396
+ID1287,Joe,03/31/2023,11:31:00,Payment related,Y,Y,57,00:04:32,3,,,,,272
+ID1288,Jim,03/31/2023,11:37:00,Admin Support,Y,N,116,00:05:09,3,,,,,309
+ID1289,Greg,03/31/2023,11:39:00,Admin Support,Y,Y,21,00:00:50,1,,,,,50
+ID1290,Martha,03/31/2023,11:53:00,Contract related,Y,Y,87,00:02:11,3,,,,,131
+ID1291,Joe,03/31/2023,12:01:00,Technical Support,Y,Y,42,00:03:56,3,,,,,236
+ID1292,Greg,03/31/2023,12:02:00,Technical Support,Y,Y,86,00:01:28,1,,,,,88
+ID1293,Joe,03/31/2023,12:04:00,Payment related,Y,Y,95,00:03:05,5,,,,,185
+ID1294,Joe,03/31/2023,12:28:00,Contract related,N,N,,,,,,,,0
+ID1295,Jim,03/31/2023,12:31:00,Technical Support,Y,Y,109,00:05:47,3,,,,,347
+ID1296,Greg,03/31/2023,12:37:00,Payment related,N,N,,,,,,,,0
+ID1297,Greg,03/31/2023,14:53:00,Admin Support,Y,Y,104,00:05:35,2,,,,,335
+ID1298,Martha,03/31/2023,14:57:00,Payment related,Y,Y,123,00:01:55,1,,,,,115
+ID1299,Martha,03/31/2023,15:04:00,Streaming,Y,Y,72,00:05:11,5,,,,,311
+ID1300,Jim,03/31/2023,15:10:00,Technical Support,N,N,,,,,,,,0
+ID1301,Stewart,03/31/2023,15:23:00,Contract related,Y,N,28,00:00:52,4,,,,,52
+ID1302,Dan,03/31/2023,15:26:00,Streaming,Y,Y,124,00:03:13,4,,,,,193
+ID1303,Jim,03/31/2023,15:32:00,Payment related,Y,Y,16,00:04:35,4,,,,,275
+ID1304,Martha,03/31/2023,15:34:00,Admin Support,N,N,,,,,,,,0
